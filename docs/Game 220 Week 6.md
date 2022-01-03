@@ -1,17 +1,17 @@
-up [[GAME 220 Syllabus]]
-prev [[Game 220 Week 5]]
-next [[Game 220 Week 7]]
+- [[GAME 220 Syllabus|Home]]
+- [[Game 220 Week 5|Previous Week]]
+- [[Game 220 Week 7|Next Week]]
 
-2/25/22
+# Week 6 - 2/25/22
 
-# Lecture Notes
+## Lecture Notes
 Middleware (integrating FMOD with Unity)
 
-## Reading 
-![[The Essential Guide to Game Audio#Level 8 - Middleware]]
+### Reading 
+- [[The Essential Guide to Game Audio#Level 8 - Middleware]]
 
 FOOTSTEP project lab time
 
-# Assignments
-## Reading
+## Assignments
+### Reading
 - [[The Essential Guide to Game Audio#Level 6 - Composing]]

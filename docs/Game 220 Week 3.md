@@ -1,22 +1,22 @@
-[[GAME 220 Syllabus|Home]]
-[[Game 220 Week 2|Previous Week]]
-[[Game 220 Week 4|Next Week]]
+- [[GAME 220 Syllabus|Home]]
+- [[Game 220 Week 2|Previous Week]]
+- [[Game 220 Week 4|Next Week]]
 
-# 2/4/22 
+# Week 3 - 2/4/22
 - After week break for Game Jam
 - Exercise 2 Due
 
-# Lecture Notes
+## Lecture Notes
 Sound Design for User Interfaces (file formats; editing techniques; menu interface sound design; unified soundscapes; synthesized interface sounds) 
 
-## Reading 
+### Reading 
 - [[The Essential Guide to Game Audio#Level 5 - Sound Design in Games]]
 
-## Help and Questions about Using Audition
+### Help and Questions about Using Audition
 
-## Explain Assignment
+### Explain Assignment
 
-## Advanced Sound Editing Concepts
+### Advanced Sound Editing Concepts
 Speed and Pitch
 - related by default
 	- dropping both results in lower EQ range
@@ -47,7 +47,7 @@ Distortion
 
 Reverse
 
-## Creative sound techniques
+### Creative sound techniques
 - slow it down
 - speed it up
 - creative EQ
@@ -61,12 +61,12 @@ Reverse
 - marble drop iphone sound
 - ratched iphone sound
 
-# Assignment
-## Exercise 3: UI Sound Library  - due week 5
+## Assignments
+### Exercise 3: UI Sound Library  - due week 5
 - create sounds for a menu UI
   - "open" section
   - "select"
   - "cancel"
   - "error"
-## Reading
-[[The Essential Guide to Game Audio#Level 4 - Styles and Genres]]
+### Reading
+- [[The Essential Guide to Game Audio#Level 4 - Styles and Genres]]

@@ -1,14 +1,16 @@
-up [[GAME 220 Syllabus]]
-prev [[Game 220 Week 10]]
-next [[Game 220 Week 12]]
+- [[GAME 220 Syllabus|Home]]
+- [[Game 220 Week 10|Previous Week]]
+- [[Game 220 Week 12|Next Week]]
 
-4/8/22
+# Week 11 - 4/8/22
 - Exercise 4 Due
 
-# Lecture Notes
-## Final Project Assigned
+## Lecture Notes
+- [[The Essential Guide to Game Audio#Level 7 - Voice Over]]
 
-# Assignment
+### Final Project Assigned
+
+## Assignment
 FINAL PROJECT
-## Reading
+### Reading
 - [[The Essential Guide to Game Audio#Level 14 - Jobs in Game Audio]]

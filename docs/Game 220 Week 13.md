@@ -1,13 +1,15 @@
-up [[GAME 220 Syllabus]]
-prev [[Game 220 Week 12]]
-next [[Game 220 Week 14 - Finals]]
+- [[GAME 220 Syllabus|Home]]
+- [[Game 220 Week 12|Previous Week]]
+- [[Game 220 Week 14|Next Week]]
 
-4/29/22
+# Week 13 - 4/29/22
+- Last week of class
+- Finals next week
 
-# Lecture Notes
+## Lecture Notes
 Composers and Sound Designers vs. Game Developers (the audio director, sound designer, and composer roles; working on teams; Audio Design Documents; content lists; scheduling; milestones; deadlines) 
 
 - Final Project Lab time
  
- # Assignments
+## Assignments
  - None
