@@ -1,6 +1,6 @@
 - [[GAME 220 Syllabus|Home]]
 - [[Game 220 Week 12|Previous Week]]
-- [[Game 220 Week 14|Next Week]]
+- [[Game 220 Week 14 - Finals|Next Week]]
 
 # Week 13 - 4/29/22
 - Last week of class

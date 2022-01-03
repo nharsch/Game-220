@@ -1,6 +1,6 @@
-up [[GAME 220 Syllabus]]
-prev [[Game 220 Week 13]]
+- [[GAME 220 Syllabus|Home]]
+- [[Game 220 Week 12|Previous Week]]
+- [[Game 220 Week 14|Next Week]]
 
-5/6/22
-
-FINAL project lab time
+# Week 14 - 4/29/22
+- Final Exams
