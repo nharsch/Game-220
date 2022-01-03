@@ -10,12 +10,12 @@ Course orientation and expectations
 - TODO
 
 ## Sound as Material
-Main Goals
-- Basics of Sound
-- Working with Sound
-- Sound's role in games
-- Technical implementation
-- Git sidequest
+- Main Goals
+	- Basics of Sound
+	- Working with Sound
+	- Sound's role in games
+	- Technical implementation
+	- Git sidequest
 
 - First Goal in class is to teach sound as a material and the tools we use to manipulate it
 - will focus on sound for games specifically later

@@ -17,14 +17,14 @@ Sound Design for User Interfaces (file formats; editing techniques; menu interfa
 ### Explain Assignment
 
 ### Advanced Sound Editing Concepts
-Speed and Pitch
+#### Speed and Pitch
 - related by default
 	- dropping both results in lower EQ range
 - can be separated with digital algorithms
 	- time stretch: slowed without changing pitch
 	- pitch effect: raise pitch without speed
 
-Reverb / Delay aka "time based"
+#### Reverb / Delay aka "time based"
 - delay is repition of sound
 	- usually at decresing volume
 	- sometimes decreasing EQ
@@ -36,16 +36,14 @@ Reverb / Delay aka "time based"
 	- "wet"
 	- "cold"
 
-Compression / Gate
+#### Compression / Gate
 - Gate more important
 
-Noise Reduction
+#### Noise Reduction
 - complex algorithm
 
-Distortion
+#### Distortion
 - complex harmonic interaction
-
-Reverse
 
 ### Creative sound techniques
 - slow it down

@@ -1,24 +1,16 @@
 ---
-aliases: Horowitz and Looney,
+aliases: Horowitz and Looney
 ---
-Source:
-Author: [[Steve Horowitz]] [[Scott Looney]] Topics: [[Sound]] [[Game Audio MOC]]
-Type: #book 
-Date: 2021-11-28
 
-## Notes
-
-### Intro
-
-### Level 1 - Animation, Art, Audio
+## Level 1 - Animation, Art, Audio
 - What is a platform
 - Story vs Interactivity
 
-### Level 2 - Brief History of Games
+## Level 2 - Brief History of Games
 - Video Game History
 	- Primitive synths to PCM
 	
-### Level 3 - Audio for Interactive Evironments
+## Level 3 - Audio for Interactive Evironments
 - Non linearity
 - Digital Sound Basics
 	- Bit Resolution
@@ -33,11 +25,11 @@ Date: 2021-11-28
 - Middleware
 - Though much more resources available on PC & Platform, eesources now constrained by mobile device capacity, internet speed for online
 
-### Level 4 - Styles and Genres
+## Level 4 - Styles and Genres
 - Gameplay Mechanics
 - Types of Games
 
-### Level 5 - Sound Design in Games
+## Level 5 - Sound Design in Games
 - Sound changes perception of events
 	- collision or pass through example
 - Practical sound effects played live
@@ -106,7 +98,7 @@ Date: 2021-11-28
 		- Integrates into game engine
 - job types
 
-### Level 6 - Composing
+## Level 6 - Composing
 - New "hybrid" composers
 - Thinking about music for a game
 	- overall mood and tone
@@ -188,7 +180,7 @@ Date: 2021-11-28
 - Editing engineer
 	- edit and balances each take
 	
-### Level 8 - Middleware
+## Level 8 - Middleware
 - Pre middleware
 	- bespoke solutions based on game
 - Middlware
@@ -223,7 +215,7 @@ Date: 2021-11-28
 		- Wwise
 		- Others
 		
-### Level 9 - Preparing Audio
+## Level 9 - Preparing Audio
 - Mixing for Games
 	- Bound sounds out of DAW
 	- Trim sounds
@@ -245,7 +237,7 @@ Date: 2021-11-28
 - Audio format choices
 	- uncompressed audio usually better, unless resource constrained
 	
-### Level 10 - Game Engines
+## Level 10 - Game Engines
 - Emergence of Game Engines
 - What Game Engines Do
 	- render images and 3D models
@@ -266,7 +258,7 @@ Date: 2021-11-28
 - How Game Engines think about sound
 	- sounds are assets, no different thatn any other piece of game
 
-### Level 11 - Intro to Unity
+## Level 11 - Intro to Unity
 - Unity Free/Basic vs Pro
 - Platform Development Support
 - Unity's Audio Engine based on FMOD
@@ -283,7 +275,7 @@ Date: 2021-11-28
 	- Triggering audio sources
 		- mostly need to be in code
 
-### Level 12 - Basic Audio in Unity 3D
+## Level 12 - Basic Audio in Unity 3D
 - Importing Sound
 - Native vs Compressed modes
 	- decompress on load
@@ -315,7 +307,7 @@ Date: 2021-11-28
 	- add AudioSource to Box Collider "Is Trigger" option
 - Scripting example
 
-### Level 13 - Web and Mobile Games
+## Level 13 - Web and Mobile Games
 - Structure of iOS
 	- Core OS - containe Darwin kernel and vital system extensions
 	- Core Services - handles services suck as in-App purchasing and XML support
@@ -333,7 +325,7 @@ Date: 2021-11-28
 		- Like, kick fundemental vs beater head
 	- HTML Audio
 
-### Level 14 - Jobs in Game Audio
+## Level 14 - Jobs in Game Audio
 - Grand Theory of Adaptaion
 	1. Quality
 	2. Perseverance
@@ -348,8 +340,3 @@ Date: 2021-11-28
 	- Good at networking?
 - Marketing Yourself 
 	- How to create website
-
-## Questions
-
-
-related:

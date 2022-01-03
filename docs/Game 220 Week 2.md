@@ -5,31 +5,30 @@
 # 1/21/22
 - Exercise 1 Due
 
-# Lecture Notes
+## Lecture Notes
 Game Audio Technology (sampling; MIDI; audio compression, middleware)
 
-## Reading
+### Reading
 - [[The Essential Guide to Game Audio#Intro]]
 - [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio]]
 - [[The Essential Guide to Game Audio#Level 2 - Brief History of Games]]
 - [[The Essential Guide to Game Audio#Level 3 - Audio for Interactive Evironments]]
 
-## Introduction the DAWs
-Destructive editing vs non destructive
-- Audition waveform view vs multitrack
-- Concept of splicing tape
-- Multiple lanes, mixing
-- "printing" effects vs effects racks
+### Introduction the DAWs
+- Destructive editing vs non destructive
+	- Audition waveform view vs multitrack
+	- Concept of splicing tape
+	- Multiple lanes, mixing
+	- "printing" effects vs effects racks
 
-## Editing Concepts
-Editing
+### Editing Concepts
+#### Editing
 - tape splice analogy
 - zero crossing
 
-Volume, Fades
+#### Volume, Fades
 - volume aka gain aka level
 - normalization
-
 - Decibel
 	- is a relative measure of volume
 	- db is measured against some standard
@@ -48,7 +47,7 @@ Volume, Fades
 - eliminating zero crossing "clicks"
 - Pan : balance of volume between left and right
 
-EQ
+#### EQ 
 - human hearing 20hz-20khz
 - sub bass 
 	- felt more than heard
@@ -70,7 +69,7 @@ EQ
 	- crispy
 	- old people lose it 
 
-## Hands on with destructive audio editing - Audition
+### Hands on with destructive audio editing - Audition
 - waveform view
 - transport controls
 - how to trim sound
@@ -78,18 +77,18 @@ EQ
 - fades
 - using EQ
 
-## Git refresher
+### Git refresher
 - What git is
 - How branching works
 - git clients
 
-# Assignments
-## Exercise 2: Stand Alone Game SFX
+## Assignments
+### Exercise 2: Stand Alone Game SFX
 - git repo
 - Find or create sound effects for given asset sheet CSV
 - All clips should be normalized
 - clean tops and tails
 - deliver CSV with filenames and files
 
-## Reading
+### Reading
 - [[The Essential Guide to Game Audio#Level 5 - Sound Design in Games]]
