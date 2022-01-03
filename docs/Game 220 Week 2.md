@@ -2,7 +2,7 @@
 - [[Game 220 Week 1|Previous Week]]
 - [[Game 220 Week 3|Next Week]]
 
-# 1/21/22
+# Week 2 - 1/21/22
 - Exercise 1 Due
 
 ## Lecture Notes

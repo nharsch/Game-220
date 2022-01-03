@@ -1,15 +1,15 @@
 - [[GAME 220 Syllabus|Home]]
 - [[Game 220 Week 2|Next Week]]
 
-# 1/14/22
+# Week 1 - 1/14/22
 
-# Lecture Notes
+## Lecture Notes
 Course orientation and expectations
 
-## Course Intro
+### Course Intro
 - TODO
 
-## Sound as Material
+### Sound as Material
 - Main Goals
 	- Basics of Sound
 	- Working with Sound
@@ -20,7 +20,7 @@ Course orientation and expectations
 - First Goal in class is to teach sound as a material and the tools we use to manipulate it
 - will focus on sound for games specifically later
 
-## What is sound
+### What is sound
 - changes in sound pressure level, detected by the ear
 - How we hear	
 	- two ears = stereo
@@ -59,14 +59,13 @@ Course orientation and expectations
 	- accessability
 	- DAWs
 	
-# Assigments
-## Exercise 1: 
+## Assigments
+### Exercise 1: 
 - Game Clip Audio Assessment
 	- objective analysis
 - what do you think this sound is quiz
 	- show pics of sounds, multiple choice answers for each
-	
-## Assigned Reading: 
+### Assigned Reading: 
 - [[The Essential Guide to Game Audio#Intro]]
 - [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio]]
 - [[The Essential Guide to Game Audio#Level 2 - Brief History of Games]]
