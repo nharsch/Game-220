@@ -1,15 +1,16 @@
-up [[GAME 220 Syllabus]]
-prev [[Game 220 Week 2]]
-next [[Game 220 Week 4]]
+[[GAME 220 Syllabus|Home]]
+[[Game 220 Week 2|Previous Week]]
+[[Game 220 Week 4|Next Week]]
 
-2/4/22 - After week break for Game Jam
+# 2/4/22 
+- After week break for Game Jam
 - Exercise 2 Due
 
 # Lecture Notes
 Sound Design for User Interfaces (file formats; editing techniques; menu interface sound design; unified soundscapes; synthesized interface sounds) 
 
 ## Reading 
-![[The Essential Guide to Game Audio#Level 5 - Sound Design in Games]]
+- [[The Essential Guide to Game Audio#Level 5 - Sound Design in Games]]
 
 ## Help and Questions about Using Audition
 

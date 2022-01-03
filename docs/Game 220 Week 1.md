@@ -1,7 +1,7 @@
-up [[GAME 220 Syllabus]]
-next [[Game 220 Week 2]]
+- [[GAME 220 Syllabus|Home]]
+- [[Game 220 Week 2|Next Week]]
 
-1/14/22
+# 1/14/22
 
 # Lecture Notes
 Course orientation and expectations

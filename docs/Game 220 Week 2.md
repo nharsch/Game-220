@@ -1,18 +1,18 @@
-up [[GAME 220 Syllabus]]
-prev [[Game 220 Week 1]]
-next [[Game 220 Week 3]]
+- [[GAME 220 Syllabus|Home]]
+- [[Game 220 Week 1|Previous Week]]
+- [[Game 220 Week 3|Next Week]]
 
-1/21/22
+# 1/21/22
 - Exercise 1 Due
 
 # Lecture Notes
 Game Audio Technology (sampling; MIDI; audio compression, middleware)
 
 ## Reading
-![[The Essential Guide to Game Audio#Intro]]
-![[The Essential Guide to Game Audio#Level 1 - Animation Art Audio]]
-![[The Essential Guide to Game Audio#Level 2 - Brief History of Games]]
-![[The Essential Guide to Game Audio#Level 3 - Audio for Interactive Evironments]]
+- [[The Essential Guide to Game Audio#Intro]]
+- [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio]]
+- [[The Essential Guide to Game Audio#Level 2 - Brief History of Games]]
+- [[The Essential Guide to Game Audio#Level 3 - Audio for Interactive Evironments]]
 
 ## Introduction the DAWs
 Destructive editing vs non destructive
