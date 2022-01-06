@@ -21,6 +21,7 @@ Course orientation and expectations
 - will focus on sound for games specifically later
 
 ### What is sound
+- https://www.youtube.com/watch?v=hfzCLClVO8g
 - changes in sound pressure level, detected by the ear
 - How we hear	
 	- two ears = stereo
@@ -40,6 +41,14 @@ Course orientation and expectations
 		- Amplitude is distance from 0 point
 - complex waves: many frequencies combined
 	- intro to EQ
+		- one hertz = one oscilation per second
+		- we here from 20hz -> 20khz
+	- simple waves have one frequency
+		- sine wave
+		- square wave
+	- real sounds are complex
+		- piano note will have fundemental frequency	
+		- will also have high and low "harmonics"
 - attack and decay
 	- attack decay (and sustain release)
 	- waveform: gunshot verses cars passing

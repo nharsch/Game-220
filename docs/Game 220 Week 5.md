@@ -2,24 +2,17 @@
 - [[Game 220 Week 4|Previous Week]]
 - [[Game 220 Week 6|Next Week]]
 
-# Week 5 - 2/18/22
-- Exercise 3 Due
+# Week 4 - 2/11/22
 
 ## Lecture Notes
-Foley and recording on location (recording equipment; signal flow; microphone techniques; recording on location)
+Sound Design Basics (terminology;)
 
-### Recording Audio
-Foley and recording on location (recording equipment; signal flow; microphone techniques; recording on location)
-
-- What microphone is
-- Signal Flow
-- Mic techniques
-
-### Foosteps Project
-FOOTSTEP project lab time
-
-## Assignment
-### Footsteps Project
-- Due Week 7
 ### Reading
-- [[The Essential Guide to Game Audio#Level 8 - Middleware]]
+- [[The Essential Guide to Game Audio#Level 4 - Styles and Genres]]
+
+UI Sounds project lab time
+
+Planned catch up time
+
+## Assignments
+- none

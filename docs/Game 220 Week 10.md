@@ -1,20 +1,19 @@
 - [[GAME 220 Syllabus|Home]]
-- [[Game 220 Week 9|Previous Week]]
+- [[Game 220 Week 8|Previous Week]]
 - [[Game 220 Week 11|Next Week]]
 
-# Week 10 - 4/1/22
-- GAME SCENE project due
+# Week 8 - 3/18/22
 
 ## Lecture Notes
-Recording and Editing Voice-Overs (contracts; dialog supervision; preproduction
-and casting; recording preparation; recording setup; recording and processing;
-editing dialog; file management and delivery)
+Audio Engineering (prepping audio, mixing, looping)
 
 ### Reading
-![[The Essential Guide to Game Audio#Level 11 - Intro to Unity]]
-![[The Essential Guide to Game Audio#Level 12 - Basic Audio in Unity 3D]]
+- [[The Essential Guide to Game Audio#Level 9 - Preparing Audio]]
+- [[The Essential Guide to Game Audio#Level 10 - Game Engines]]
+
+GAME SCENE project lab time
 
 ## Assignment
-### Exercise 4: Game Intro Voice-Over
 ### Reading
-- [[The Essential Guide to Game Audio#Level 7 - Voice Over]]
+- [[The Essential Guide to Game Audio#Level 11 - Intro to Unity]]
+- [[The Essential Guide to Game Audio#Level 12 - Basic Audio in Unity 3D]]

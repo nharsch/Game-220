@@ -2,15 +2,15 @@
 - [[Game 220 Week 10|Previous Week]]
 - [[Game 220 Week 12|Next Week]]
 
-# Week 11 - 4/8/22
-- Exercise 4 Due
+# Week 9 - 3/25/22
 
 ## Lecture Notes
-- [[The Essential Guide to Game Audio#Level 7 - Voice Over]]
-
-### Final Project Assigned
-
-## Assignment
-FINAL PROJECT
 ### Reading
-- [[The Essential Guide to Game Audio#Level 14 - Jobs in Game Audio]]
+- [[The Essential Guide to Game Audio#Level 11 - Intro to Unity]]
+- [[The Essential Guide to Game Audio#Level 12 - Basic Audio in Unity 3D]]
+
+GAME SCENE project lab time
+
+## Assignments
+### Reading
+- [[The Essential Guide to Game Audio#Level 7 - Voice Over]]

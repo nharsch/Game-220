@@ -1,6 +1,6 @@
 - [[GAME 220 Syllabus|Home]]
 - [[Game 220 Week 1|Previous Week]]
-- [[Game 220 Week 3|Next Week]]
+- [[Game 220 Week 4|Next Week]]
 
 # Week 2 - 1/21/22
 - Exercise 1 Due
@@ -48,6 +48,7 @@ Game Audio Technology (sampling; MIDI; audio compression, middleware)
 - Pan : balance of volume between left and right
 
 #### EQ 
+https://www.youtube.com/watch?v=0Ls7ZGH1PAk&t=34s
 - human hearing 20hz-20khz
 - sub bass 
 	- felt more than heard

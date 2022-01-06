@@ -2,14 +2,33 @@
 - [[Game 220 Week 11|Previous Week]]
 - [[Game 220 Week 13|Next Week]]
 
-# Week 12 - 4/22/22
+# Week 10 - 4/1/22
+- GAME SCENE project due
 
 ## Lecture Notes
-- [[The Essential Guide to Game Audio#Level 14 - Jobs in Game Audio]]
+Recording and Editing Voice-Overs (contracts; dialog supervision; preproduction
+and casting; recording preparation; recording setup; recording and processing;
+editing dialog; file management and delivery)
 
-Game Developers vs. Composers and Sound Designers (contracts, royalties, fees, credits, time vs. money vs. quality)
+### Reading
+- [[The Essential Guide to Game Audio#Level 7 - Voice Over]]
 
-Final Project lab time
+- Room problems
+	- https://www.youtube.com/watch?v=JPYt10zrclQ
+
+- Common Voice Over fixes
+	- Sibilance
+		- Pop filter
+		- De-esser
+	- Room resonance
+		- Use EQ notch
+	- Mouth sounds
+		- Give actor some water
+		- use judicious editing
+	- Even volume
+		- use checkerboard edits to increse quiet levels
+			- can result in uneven noise floors
+		- compression and limiting
 
 ## Assignment
-### Reading
+### Exercise 4: Game Intro Voice-Over

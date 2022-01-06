@@ -2,18 +2,16 @@
 - [[Game 220 Week 6|Previous Week]]
 - [[Game 220 Week 8|Next Week]]
 
-# Week 7 - 3/4/22 
-- FOOTSTEP project due
-- Last week before spring break
+# Week 6 - 2/25/22
 
 ## Lecture Notes
-Game Music (game music form and structure; elements of game music)
+Middleware (integrating FMOD with Unity)
 
-### Reading
-- [[The Essential Guide to Game Audio#Level 6 - Composing]]
+### Reading 
+- [[The Essential Guide to Game Audio#Level 8 - Middleware]]
+
+FOOTSTEP project lab time
 
 ## Assignments
-### GAME SCENE project assigned (due Week 10)
 ### Reading
-- [[The Essential Guide to Game Audio#Level 9 - Preparing Audio]]
-- [[The Essential Guide to Game Audio#Level 10 - Game Engines]]
+- [[The Essential Guide to Game Audio#Level 6 - Composing]]
