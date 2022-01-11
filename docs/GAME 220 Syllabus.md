@@ -33,6 +33,7 @@ related: [[GAME 220 Sound Design for Games]] [[APU Games Program MOC|APU]]
 
 ## Assignments
 ### Exercise 1: Game Clip Audio Assesment - Due week 2 
+[[Game 220 Exercise 1 - Audio Clip and Waveform Assesment]]
 - Game Clip Audio Assessment 
 	- objective analysis
 - what do you think this sound is quiz

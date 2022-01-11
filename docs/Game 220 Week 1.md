@@ -9,8 +9,7 @@ Course orientation and expectations
 ### About Me
 - [nigelharsch.com](https://nigelharsch.com)
 - Theatrical Sound Designer and Composer
-	- Sometimes films
-	- Sometimes games
+	- Sometimes films - Sometimes games
 - Web Developer
 - Sound isn't new to me
 - Game design is
@@ -104,12 +103,103 @@ Course orientation and expectations
 	- accessability
 	- DAWs
 	
+### Describing Audio
+
+#### Subjective 
+- Common subjective words:
+	- quiet
+	- loud
+	- muddy
+	- boomy
+	- boxy
+	- honky
+	- bright
+	- warm
+	- tinny
+	- wet
+	- dry
+	- fuzzy
+	- lofi
+	- harsh
+- What words do you use?
+- Many subjective words are talking about subjective properties of sound
+- Most are about EQ
+	- Muddy
+		- lacks definition or articulation
+		- could be a lack of high frequency content
+		- could be too much low frequency content
+		- could be too much reverb (more on that later)
+	- boomy, boxy
+		- often has to do with something resonating
+			- often small rooms
+			- if one resonant frequency, sometimes easy to fix
+	- bright, tinny
+		- too much high end
+	- warm
+		- has pleasing low mid
+		- could describe harmonic distortion or compression
+- Some are about reverb and reflections
+	- wet
+		- lots of reverb
+	- dry, direct
+		- very little or no reflections
+	- honky, boxy
+		- too many early reflections
+- Some are so vague to be almost useless
+	- fuzzy
+		- eaxtraneous, non signal noise
+			- could be background
+			- could be recording artifacts
+		- bad EQ
+		- distortion
+		- signal loss
+		- background noise
+		- digital compression aritifacts, bitrate
+	- Lofi
+		- EQ that favors midrange, like phones, phone speakers
+		- Low bitrate or digital compression artifacts
+		- analog tape hiss, warble
+		- vinyl surface noise
+		- Genres of music
+			- "Lofi beats to study to"
+	- Harsh
+		- 
+- When being creative, vague is good
+	- Shiny wood
+	- Dull metal
+	- It should sound like dawn
+	- Use carefully
+	
+#### Objective Analysis
+- Signal vs Noise
+	- How loud is the content is heard vs non content
+	- Actual recording noise
+	- Room sound
+	- mouth clicks, clothing ruffling, sniffles
+	- distance from source
+		- sounds too far away
+- Volume
+	- is it too loud or too quiet
+	- should the sound fade in or out
+	- Are some parts way too loud and some way too quiet
+- EQ
+	- Are you hearing too much of one frequency range
+		- high
+		- mid
+		- low
+- Reverb
+	- Can I hear the room / space where this was recorded
+	- Does the content sound too dry as to sound artificial
+- Dynamics
+
+- [video on describing audio](https://www.youtube.com/watch?v=wdkrqIqz5Ek)
+
+
+	
 ## Assigments
 ### Exercise 1: 
-- Game Clip Audio Assessment
-	- objective analysis
-- what do you think this sound is quiz
-	- show pics of sounds, multiple choice answers for each
+- [[Game 220 Exercise 1 - Audio Clip and Waveform Assesment]]
+
 ### Assigned Reading: 
 - [[The Essential Guide to Game Audio#Intro]]
 - [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio]]
