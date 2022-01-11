@@ -1,11 +1,16 @@
+---
+aliases: Game 220 Class Notes
+---
+
 related: [[GAME 220 Sound Design for Games]] [[APU Games Program MOC|APU]]
 
 # Game 220 Class Notes
 
 ## Resources
-- [syllabus](https://docs.google.com/document/d/1gTs7sSxTniP1B5Jz2uLD3pYdMpDjeEkgQeD7DX6PZAc/edit)
-- [[The Essential Guide to Game Audio|Book Notes]]
+- [syllabus pdf](https://drive.google.com/file/d/186sxK5CyzCnww-TBSRLQmuPVBCH8z6cg/view?usp=sharing)
+- [[The Essential Guide to Game Audio|Essential Guide to Audio Book Notes]]
 - [trello board](https://trello.com/b/bg0gDxFM/game-220-20)
+- TODO [ ] [assignments repos]
 
 ## Weeks
 - 1/15 [[Game 220 Week 1]]

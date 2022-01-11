@@ -6,22 +6,58 @@
 ## Lecture Notes
 Course orientation and expectations
 
-### Course Intro
-- TODO
+### About Me
+- [nigelharsch.com](https://nigelharsch.com)
+- Theatrical Sound Designer and Composer
+	- Sometimes films
+	- Sometimes games
+- Web Developer
+- Sound isn't new to me
+- Game design is
 
-### Sound as Material
+### Course Intro
 - Main Goals
 	- Basics of Sound
+		- What it is
+		- How to talk about it
 	- Working with Sound
+		- Editing
+		- Sourcing
+		- Recording
+			- Voice Over
+			- Foley
 	- Sound's role in games
 	- Technical implementation
+		- Asset Sheets
+		- Unity Integration
+		- Middleware
 	- Git sidequest
 
+#### Sound as Material
 - First Goal in class is to teach sound as a material and the tools we use to manipulate it
+	- Will have more lectures and domonstrations
 - will focus on sound for games specifically later
+	- Will be more hands on and guided by your projects
+	
+#### Specific Tools
+- Adobe Audition 
+	- To teach destructive editing
+- Pro Tools
+	- For multitracking, to teach signal flow
+- Unity
+	- You've probably heard of it
+	- Sound basics in Unity
+- FMOD
+	- adanved sound integration with Unity
+- Git sidequest
+	- Use git for submitting exercises and projects
+
+#### What are your goals / objectives?
+
+...Let's get started
 
 ### What is sound
-- https://www.youtube.com/watch?v=hfzCLClVO8g
+- [quick sound intro video](https://www.youtube.com/watch?v=hfzCLClVO8g)
 - changes in sound pressure level, detected by the ear
 - How we hear	
 	- two ears = stereo
