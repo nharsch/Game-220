@@ -200,7 +200,7 @@ Course orientation and expectations
 - [Exercise 1 Repo](https://github.com/APUGames/Game-220-Exercise-1)
 
 ### Assigned Reading: 
-- [[The Essential Guide to Game Audio#Intro]]
-- [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio]]
-- [[The Essential Guide to Game Audio#Level 2 - Brief History of Games]]
-- [[The Essential Guide to Game Audio#Level 3 - Audio for Interactive Evironments]]
+- [[The Essential Guide to Game Audio#Intro|Intro]]
+- [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio|Level 1]]
+- [[The Essential Guide to Game Audio#Level 2 - Brief History of Games|Level 2]]
+- [[The Essential Guide to Game Audio#Level 3 - Audio for Interactive Evironments|Level 3]]
