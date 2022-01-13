@@ -10,7 +10,7 @@ related: [[GAME 220 Sound Design for Games]] [[APU Games Program MOC|APU]]
 - [syllabus pdf](https://drive.google.com/file/d/186sxK5CyzCnww-TBSRLQmuPVBCH8z6cg/view?usp=sharing)
 - [[The Essential Guide to Game Audio|Essential Guide to Audio Book Notes]]
 - [trello board](https://trello.com/b/bg0gDxFM/game-220-20)
-- TODO [ ] [assignments repos]
+- [[#Assignments]]
 
 ## Weeks
 - 1/15 [[Game 220 Week 1]]
@@ -33,11 +33,8 @@ related: [[GAME 220 Sound Design for Games]] [[APU Games Program MOC|APU]]
 
 ## Assignments
 ### Exercise 1: Game Clip Audio Assesment - Due week 2 
-[[Game 220 Exercise 1 - Audio Clip and Waveform Assesment]]
-- Game Clip Audio Assessment 
-	- objective analysis
-- what do you think this sound is quiz
-	- show pics of sounds, multiple choice answers for each
+- [Exercise 1 Repo](https://github.com/APUGames/Game-220-Exercise-1)
+
 ### Exercise 2: Audio cleanup - Due week 3 (2 actual weeks)
 - clean up sound effects
 - each SFX has notes for changes

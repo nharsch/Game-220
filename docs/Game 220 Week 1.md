@@ -194,11 +194,10 @@ Course orientation and expectations
 
 - [video on describing audio](https://www.youtube.com/watch?v=wdkrqIqz5Ek)
 
-
 	
 ## Assigments
 ### Exercise 1: 
-- [[Game 220 Exercise 1 - Audio Clip and Waveform Assesment]]
+- [Exercise 1 Repo](https://github.com/APUGames/Game-220-Exercise-1)
 
 ### Assigned Reading: 
 - [[The Essential Guide to Game Audio#Intro]]
