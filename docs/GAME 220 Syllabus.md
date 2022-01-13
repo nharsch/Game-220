@@ -12,18 +12,18 @@ aliases: Game 220 Class Notes
 ## Weeks
 - 1/15 [[Game 220 Week 1]]
 - 1/21 [[Game 220 Week 2]]
-- 1/28 Week3, Game Jam, no class
+- 1/28 Week 3 - Game Jam, no class
 - 2/4 [[Game 220 Week 4]]
 - 2/11 [[Game 220 Week 5]]
 - 2/18 [[Game 220 Week 6]]
 - 2/25 [[Game 220 Week 7]]
 - 3/4 [[Game 220 Week 8]]
-- 3/11 Week 9, Spring Break, no class
+- 3/11 Week 9 - Spring Break, no class
 - 3/18 [[Game 220 Week 10]]
 - 3/25 [[Game 220 Week 11]]
 - 4/1 [[Game 220 Week 12]]
 - 4/8 [[Game 220 Week 13]]
-- 4/15 Week 10, Easter Break, no class
+- 4/15 Week 10 - Easter Break, no class
 - 4/22 [[Game 220 Week 15]]
 - 4/29 [[Game 220 Week 16]]
 - 5/6 [[Game 220 Week 17 - Finals]]
