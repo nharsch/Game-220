@@ -55,3 +55,6 @@ Every Friday, 7:10pm - 9:10pm
 ### Exercise 4: Game Intro Voice Over
 ### Project 2: Game Animatic/Scene - Due week 10 
 ### Final Project: Due end of semester
+
+## Misc
+- [headphone recommendation](https://www.amazon.com/Audio-Technica-ATH-M20x-Professional-Monitor-Headphones/dp/B00HVLUR18/ref=sr_1_4?crid=2C2M7AJUMIX7&keywords=audio+technica&qid=1642132525&sprefix=audio+technica%2Caps%2C312&sr=8-4)

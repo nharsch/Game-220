@@ -4,7 +4,20 @@
 # Week 1 - 1/14/22
 
 ## Lecture Notes
-Course orientation and expectations
+### Intro
+- Resources
+	- Canvas being set up
+		- Using this class notes repo instead
+	- Book
+	- Slack
+	- Trello
+- How class will work
+	- lecture heavy at first
+	- more of a workshop toward the end
+	- assignments submitted through git
+- Student Introductions
+	- what's your major?
+	- what are you looking to learn in this class?
 
 ### About Me
 - [nigelharsch.com](https://nigelharsch.com)
@@ -19,9 +32,14 @@ Course orientation and expectations
 	- Basics of Sound
 		- What it is
 		- How to talk about it
+		- Sound as a material
 	- Working with Sound
-		- Editing
 		- Sourcing
+		- Editing
+			- Adobe Audition 
+				- To teach destructive editing
+			- Pro Tools
+				- For multitracking, to teach signal flow
 		- Recording
 			- Voice Over
 			- Foley
@@ -31,29 +49,10 @@ Course orientation and expectations
 		- Unity Integration
 		- Middleware
 	- Git sidequest
-
-#### Sound as Material
-- First Goal in class is to teach sound as a material and the tools we use to manipulate it
-	- Will have more lectures and domonstrations
-- will focus on sound for games specifically later
-	- Will be more hands on and guided by your projects
-	
-#### Specific Tools
-- Adobe Audition 
-	- To teach destructive editing
-- Pro Tools
-	- For multitracking, to teach signal flow
-- Unity
-	- You've probably heard of it
-	- Sound basics in Unity
-- FMOD
-	- adanved sound integration with Unity
-- Git sidequest
-	- Use git for submitting exercises and projects
-
-#### What are your goals / objectives?
-
-...Let's get started
+		- GIt/github are industry tools
+		- nothing too fancy here, just practice using it
+		- unfortunately, not great with audio assets
+		- but your changes are tracked and documented
 
 ### What is sound
 - [quick sound intro video](https://www.youtube.com/watch?v=hfzCLClVO8g)
@@ -65,25 +64,29 @@ Course orientation and expectations
 	- huge range of human hearing
 	- we don't hear all frequencies equally
 - sounds are waveforms
-- what is a waveform, what does it represent?
-	- temproal, time based
-	- aplitude changes over time
-- waves: frequency and amplitude
-	- sine, square, saw
-	- relative to zero point
-		- negative and positive phase values
-		- 0 is quiet
+	- what is a waveform, what does it represent?
+		- temproal, time based
+		- aplitude changes over time
+			- ![[wave-graph.png]]
+		- relative to zero point
+			- negative and positive phase values
+			- 0 is quiet
 		- Amplitude is distance from 0 point
+		- frequency is how many times it crosses zero point
+			- one hertz = one oscilation per second
+			- we hear from 20hz -> 20khz
+				- [Hearing Range](https://en.wikipedia.org/wiki/Hearing_range)
+		- when mixed, produce [interference](https://en.wikipedia.org/wiki/Wave_interference)
+			- caused by waves amplifying or cancelling each other
 - complex waves: many frequencies combined
-	- intro to EQ
-		- one hertz = one oscilation per second
-		- we here from 20hz -> 20khz
 	- simple waves have one frequency
 		- sine wave
 		- square wave
 	- real sounds are complex
 		- piano note will have fundemental frequency	
 		- will also have high and low "harmonics"
+		- [ ] sine 440 vs piano 440
+	- ![[adding-waves.gif]]
 - attack and decay
 	- attack decay (and sustain release)
 	- waveform: gunshot verses cars passing
