@@ -4,10 +4,14 @@ aliases: Game 220 Class Notes
 
 # Game 220 Class Notes
 
+Every Friday, 7:10pm - 9:10pm
+
 ## Resources
 - [syllabus pdf](https://drive.google.com/file/d/186sxK5CyzCnww-TBSRLQmuPVBCH8z6cg/view?usp=sharing)
 - [[#Assignments|Assignments]]
 - [Trello Board](https://trello.com/b/bg0gDxFM/game-220-20)
+- [Lecture Zoom Line](https://zoom.us/j/97631235561?pwd=YlBxaWdVNEN3Z25Mek8wZ3FUY2N3QT09)
+	- pass: game220
 
 ## Weeks
 - 1/15 [[Game 220 Week 1]]
