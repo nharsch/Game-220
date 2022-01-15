@@ -230,7 +230,7 @@
 ### Additional Resources
 - [Video on Describing Audio Objectively](https://www.youtube.com/watch?v=wdkrqiqz5ek)
 - Science Experiment
-	- [[Mics, Speakers, Electric Audio.mp4]]
+	- ![[Mics, Speakers, Electric Audio.mp4]]
 - Git resources
 	- [Git Branching Video](https://www.youtube.com/watch?v=Ir1KfssniRI)
 	- [Git Kraken Video](https://www.youtube.com/watch?v=ub9GfRziCtU&feature=emb_logo)
