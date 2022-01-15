@@ -226,7 +226,14 @@
 	- Recording artifacts
 	- Environmental Sounds
 	- mouth clicks, clothing ruffling, sniffles
+
+### Additional Resources
 - [video on describing audio](https://www.youtube.com/watch?v=wdkrqIqz5Ek)
+- Science Experiment
+	- ![[Mics, Speakers, Electric Audio.mp4]]
+- Git resources
+	- [Git Branching Video](https://www.youtube.com/watch?v=Ir1KfssniRI)
+	- [Git Kraken Video](https://www.youtube.com/watch?v=ub9GfRziCtU&feature=emb_logo)
 	
 ## Assigments
 ### Exercise 1: 
