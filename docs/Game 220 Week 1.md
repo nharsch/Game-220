@@ -61,7 +61,7 @@
 - changes in sound pressure level, detected by the ear
 	- varies in different animals
 - How we hear	
-	- [[ear-diagram.png]]
+	- ![[ear-diagram.png]]
 	- two ears = stereo
 		- volume differences and slight delays in sounds tell us position
 	- huge dynamic range of hearing
@@ -73,7 +73,7 @@
 - what is a waveform, what does it represent?
 	- temproal, time based
 	- aplitude changes over time
-		- [[wave-graph.png]]
+		- ![[wave-graph.png]]
 	- relative to zero point
 		- negative and positive phase values
 		- 0 is quiet
@@ -90,30 +90,30 @@
 		- square wave
 	- real sounds are complex
 		- piano vs sine
-			- [[sine-wave.png]]
+			- ![[sine-wave.png]]
 			- [[sine-220hz.wav]]
-			- [[piano-wave.png]]
+			- ![[piano-wave.png]]
 			- [[piano-220hz.wav]]
 		- piano note will have fundemental frequency	
 		- will also have high and low "harmonics"
 			- string harmonics
-				- [[Harmonic_partials_sm.jpeg]]
+				- ![[Harmonic_partials_sm.jpeg]]
 			- piano resonance
 			- room reflections
 		- when these waves are added _one_ new wav is perceived by an ear (or mic)*
 			- *2 if stereo
-			- [[adding-waves.gif]]
+			- ![[adding-waves.gif]]
 - attack and decay
 	- our piano again
-		- [[piano-attack-decay.png]]
+		- ![[piano-attack-decay.png]]
 	- a car passing
-		- [[car-passes.png]]
+		- ![[car-passes.png]]
 		- [[car-passes.wav]]
 	- a drum beat 
-		- [[drum-loop-1.png]]
+		- ![[drum-loop-1.png]]
 		- [[drum-loop-1.wav]]
 	- a conversation
-		- [[convo.png]]
+		- ![[convo.png]]
 		- [[convo.wav]]
 		
 ### acoustic sound vs electric vs digital
@@ -127,9 +127,9 @@
 		- stored on tape
 - digital audio is a stream of numbers representing voltage measured n times a second
 - acoustic and analog are continuous, digital is discrete (pixelated)
-- [[microphone-diagram.png]]
-- [[sampling-audio.png]]
-- [[analog-to-digital-conversion.png]]
+- ![[microphone-diagram.png]]
+- ![[sampling-audio.png]]
+- ![[analog-to-digital-conversion.png]]
 - what digital sound gets us
 	- consistent playblack
 	- smaller storage
@@ -230,7 +230,7 @@
 ### Additional Resources
 - [Video on Describing Audio Objectively](https://www.youtube.com/watch?v=wdkrqiqz5ek)
 - Science Experiment
-	- ![[Mics, Speakers, Electric Audio.mp4]]
+	- [[Mics, Speakers, Electric Audio.mp4]]
 - Git resources
 	- [Git Branching Video](https://www.youtube.com/watch?v=Ir1KfssniRI)
 	- [Git Kraken Video](https://www.youtube.com/watch?v=ub9GfRziCtU&feature=emb_logo)
