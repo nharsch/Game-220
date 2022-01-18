@@ -36,15 +36,13 @@ Every Friday, 7:10pm - 9:10pm
 ### Exercise 1: Game Clip Audio Assesment - Due week 2 
 - [Exercise 1 Repo](https://github.com/APUGames/Game-220-Exercise-1)
 
-### Exercise 2: Audio cleanup - Due week 3 (2 actual weeks)
-- clean up sound effects
-- each SFX has notes for changes
-- tops and tails
-- reduce pauses
-- too bassy
+### Exercise 2: Sourcing Clips for an Asset Sheet - Due week 4
+- [Exercise 2 Repo](https://github.com/APUGames/Game-220-Exercise-2/tree/main)
+
 ### Project 1: Footsteps Project
   - record footsteps on multiple surfaces
   - looping
+  
 ### Exercise 3: UI Sound Library  - due week 5
 - given an asset list
 - create sounds for a menu UI
@@ -52,6 +50,7 @@ Every Friday, 7:10pm - 9:10pm
   - "select"
   - "cancel"
   - "error"
+  
 ### Exercise 4: Game Intro Voice Over
 ### Project 2: Game Animatic/Scene - Due week 10 
 ### Final Project: Due end of semester

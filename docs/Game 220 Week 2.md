@@ -8,48 +8,91 @@
 ## Lecture Notes
 Game Audio Technology (sampling; MIDI; audio compression, middleware)
 
-### Reading
+- Quick [[Game 220 Week 1]] review
+	- what is sound?
+	- what is amplitude?
+	- what is frequency?
+
+### Reading Review
 - [[The Essential Guide to Game Audio#Intro]]
 - [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio]]
 - [[The Essential Guide to Game Audio#Level 2 - Brief History of Games]]
 - [[The Essential Guide to Game Audio#Level 3 - Audio for Interactive Evironments]]
 
-### Introduction the DAWs
+### Introduction to DAWs
+- Digital Audio Workstation
 - Destructive editing vs non destructive
 	- Audition waveform view vs multitrack
 	- Concept of splicing tape
 	- Multiple lanes, mixing
 	- "printing" effects vs effects racks
 
-### Editing Concepts
-#### Editing
-- tape splice analogy
-- zero crossing
+### Hands on with destructive audio editing - Audition
+- Let's clean up this file [[luxury car commercial raw take.wav]]
+	- [ ] class: download file
+	- trim silences
+	- normalize
+	- EQ
+- [ ] class: open file in audition
+- waveform view
+	- top left
+	- multitrack view
+		- not using audition multitrack in this class
+- transport controls
+	- pro tip, `space` is play/pause
+- saving
+	- careful when saving changes to original sound file
 
-#### Volume, Fades
+### Editing
+- how to trim sound
+- tape splice analogy
+- cut at silences if possible
+- cut at zero crossing
+	- to avoid pops
+- [ ] Class: clean up silences
+
+### Volume, Fades
 - volume aka gain aka level
-- normalization
-- Decibel
+- Measured in Decibles (dB)
+- A quick, but complicated explanation about Decibels
+	- Quick Video to explain: https://www.youtube.com/watch?v=WZLQoP6CM0k
 	- is a relative measure of volume
 	- db is measured against some standard
-	- db SPL - relative to threshold of human hearing
-	- 6db increase is about twice as loud
+		- db SPL - relative to threshold of human hearing
+		- we measure in dBFS - decibels reltative to full scale
+			- 0 is maximum loudness capable
+	- 6db-10db increase is about twice as loud
+		- as perceived
 	- 10 decibels = a bel = one order of magnitude greater
-		-   Near total silence - 0 dB
-		-   A whisper - 15 dB
-		-   Normal conversation - 60 dB
-		-   A lawnmower - 90 dB
-		-   A car horn - 110 dB
-		-   A rock concert or a jet engine - 120 dB
-		-   A gunshot or firecracker - 140 dB
-	- Quick Video to explain: https://www.youtube.com/watch?v=WZLQoP6CM0k
-- fades: changing volume over time
-- eliminating zero crossing "clicks"
+	- [handy wikipedia chart](https://en.wikipedia.org/wiki/Sound_pressure)
+		-  Near total silence - 0 dB
+		-  A whisper - 15 dB
+		-  Normal conversation - 60 dB
+		-  A lawnmower - 90 dB
+		-  A car horn - 110 dB
+		-  A rock concert or a jet engine - 120 dB
+		-  A gunshot or firecracker - 140 dB
+- Normalization
+	- Peak normalizaiton
+		- bring highest volume up to target level, usuually 0dBfs 
+		- helpful to normalize clips to avoid adding volume elsewhere to compensate
+	- Loudness normalization
+		- bring average aplitude to target level
+		- useful for broadcast, radio
+		- useful if we want several similar audio files to play at consistent volume
+			- dialogue
+		- need to use dynamic compression to avoid clipping
+			- more on this later
+- Fades: changing volume over time
+	- good for avoiding zero crossing clicks when looping or cutting
+	- good for hiding edits
 - Pan : balance of volume between left and right
+- [ ] Class: peak normalize clip to -0.5 db
 
-#### EQ 
-https://www.youtube.com/watch?v=0Ls7ZGH1PAk&t=34s
-- human hearing 20hz-20khz
+### EQ 
+- Stands for "Equalization"
+- Human hearing 20hz-20khz
+- [Video on Identifying EQ bands](https://www.youtube.com/watch?v=0Ls7ZGH1PAk&t=34s)
 - sub bass 
 	- felt more than heard
 	- often lost in reproduction
@@ -69,14 +112,50 @@ https://www.youtube.com/watch?v=0Ls7ZGH1PAk&t=34s
 	- enunciatrion and articulation
 	- crispy
 	- old people lose it 
+- Styles of EQs
+	- graphic
+		- you may have seem this on devices or software
+			- fixed EQ bands
+			- fixed widths
+	- parametric
+		- adjustable bands and curves
+		- frequency
+		- gain
+		- Q/width
+- Different EQ curves
+	- Peak
+		- amplify or attenuate frequencies around some center frequency
+		- using Q / width for finer / broader control
+	- Highpass
+		- cuts off low frequencies below a point
+		- "passes" frequencies above that point
+	- Lowpass
+		- cuts off high frequencies above a point
+		- "passes" low frequencies below that point
+	- high shelf
+		- amplify or attenuate all frequencies above a freq
+	- low shelf
+		- amplify or attenuate all frequencies below a freq
+- [ ] Class: using Parametric EQ, find low frequency room resonance and attenuate
+- [ ] Class: using Parametric EQ, find "nasally" midrage frequency and attenuate
+- [ ] Class: using high shelf, raise higher frequencies for more articulation
+- [ ] Class: using high pass, cut off all frequencies below performers range
 
-### Hands on with destructive audio editing - Audition
-- waveform view
-- transport controls
-- how to trim sound
-- how to amplify
-- fades
-- using EQ
+### Intro assignment
+
+### Where to source sounds
+#### Free
+- [Free Sound Web](https://freesound.org/)
+- [Open Game Art](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=13&sort_by=count&sort_order=DESC)
+- [Youtube to Wav](https://loader.to/en52/youtube-wav-converter.html)
+	- Use this responsibly!
+		- May be copywritten material
+		- These sites often have fake "download" buttons
+		
+#### Paid
+- [A Sound Effect](https://www.asoundeffect.com/)
+- [StoryBlocks](https://www.storyblocks.com/audio)
+- [Boom Library](https://www.boomlibrary.com/original-boom-library-sound-fx/)
 
 ### Git refresher
 - What git is
@@ -85,11 +164,7 @@ https://www.youtube.com/watch?v=0Ls7ZGH1PAk&t=34s
 
 ## Assignments
 ### Exercise 2: Stand Alone Game SFX
-- git repo
-- Find or create sound effects for given asset sheet CSV
-- All clips should be normalized
-- clean tops and tails
-- deliver CSV with filenames and files
+[Exercise 2 Repo](https://github.com/APUGames/Game-220-Exercise-2/tree/main)
 
 ### Reading
 - [[The Essential Guide to Game Audio#Level 5 - Sound Design in Games]]

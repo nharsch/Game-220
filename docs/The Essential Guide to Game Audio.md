@@ -2,6 +2,8 @@
 aliases: Horowitz and Looney
 ---
 
+## Intro
+
 ## Level 1 - Animation, Art, Audio
 - What is a platform
 - Story vs Interactivity
