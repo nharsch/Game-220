@@ -8,6 +8,9 @@ Every Friday, 7:10pm - 9:10pm
 
 ## Resources
 - [syllabus pdf](https://drive.google.com/file/d/186sxK5CyzCnww-TBSRLQmuPVBCH8z6cg/view?usp=sharing)
+- Book - The Essential Guide to Game Audio
+	- [Order Book on Amazon](https://www.amazon.com/Essential-Guide-Game-Audio-Practice/dp/041570670X/ref=sr_1_1?crid=3IGE5UH8X6O3G&keywords=the+essential+guide+to+game+audio&qid=1642484714&sprefix=the+essential+guide+to+game+aud%2Caps%2C199&sr=8-1)
+	- [[The Essential Guide to Game Audio|Instructor Book Notes]]
 - [[#Assignments|Assignments]]
 - [Trello Board](https://trello.com/b/bg0gDxFM/game-220-20)
 - [Lecture Zoom Line](https://zoom.us/j/97631235561?pwd=YlBxaWdVNEN3Z25Mek8wZ3FUY2N3QT09)
