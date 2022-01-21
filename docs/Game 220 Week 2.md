@@ -41,6 +41,8 @@ Game Audio Technology (sampling; MIDI; audio compression, middleware)
 	- trim silences
 	- normalize
 	- EQ
+		- sounds like there's room resonance
+		- something sounds "nasally"
 - [ ] class: open file in audition
 - waveform view
 	- top left
