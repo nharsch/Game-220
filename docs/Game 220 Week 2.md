@@ -9,23 +9,43 @@
 Game Audio Technology (sampling; MIDI; audio compression, middleware)
 
 ### Week 1 Lecture Quick Review
+_5 minutes_
 - Quick [[Game 220 Week 1]] review
 	- what is sound?
 	- what is amplitude?
 	- what is frequency?
 	
-### Exercise 1 
+### Exercise 1 Review
+_10 minutes_
 - how to describe first 3 sounds
 - what's the difference between the 2 EQ'd sounds
 - answers for last section
+- github issues?
+- everyone have a decent text editor?
+	- Quick note on what [Markdown](https://www.markdownguide.org/) is
+		- human readable markup language
+		- Are simple text files
+		- Can be rendered in different ways
+		- Becoming industry standard
+				- Build into github and slack, as well as other tools
+	- markdown preview is nice
+	- [VSCode](https://code.visualstudio.com/)
+	- [Atom](https://atom.io/)
+
+#### Git refresher
+- What git is
+- How branching works
+- git clients
 
 ### Reading Review
+_15 minutes_
 - [[The Essential Guide to Game Audio#Intro]]
 - [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio]]
 - [[The Essential Guide to Game Audio#Level 2 - Brief History of Games]]
 - [[The Essential Guide to Game Audio#Level 3 - Audio for Interactive Evironments]]
 
 ### Introduction to DAWs
+_7:40_
 - Digital Audio Workstation
 - Destructive editing vs non destructive
 	- Audition waveform view vs multitrack
@@ -157,6 +177,7 @@ Game Audio Technology (sampling; MIDI; audio compression, middleware)
 	- Be mindful of Frequency and Bitrate
 
 ### Intro assignment
+_8:40_
 [Exercise 2 Repo](https://github.com/APUGames/Game-220-Exercise-2/tree/main)
 - will be given an asset list with sound names, descriptions and notes
 - you'll find sounds and clean them up to spec
@@ -174,11 +195,6 @@ Game Audio Technology (sampling; MIDI; audio compression, middleware)
 - [A Sound Effect](https://www.asoundeffect.com/)
 - [StoryBlocks](https://www.storyblocks.com/audio)
 - [Boom Library](https://www.boomlibrary.com/original-boom-library-sound-fx/)
-
-### Git refresher
-- What git is
-- How branching works
-- git clients
 
 ## Assignments
 ### Exercise 2: Stand Alone Game SFX
