@@ -45,6 +45,22 @@ Sound Design for User Interfaces (file formats; editing techniques; menu interfa
 #### Distortion
 - complex harmonic interaction
 
+#### Effects order matters	
+This will sound different
+```mermaid
+graph LR;
+source(Source signal) -- Dry singal --> EQ;
+EQ -- EQ'd signal --> Reverb;
+Reverb -- Reverb'd signal --> Output(Output);
+```
+Than this	
+```mermaid
+graph LR;
+source(Source signal) -- Dry singal --> Reverb;
+Reverb -- Reverb'd signal --> EQ;
+EQ -- EQ'd signal --> Output(Output);
+```
+
 ### Creative sound techniques
 - slow it down
 - speed it up

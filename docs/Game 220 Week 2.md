@@ -8,10 +8,16 @@
 ## Lecture Notes
 Game Audio Technology (sampling; MIDI; audio compression, middleware)
 
+### Week 1 Lecture Quick Review
 - Quick [[Game 220 Week 1]] review
 	- what is sound?
 	- what is amplitude?
 	- what is frequency?
+	
+### Exercise 1 
+- how to describe first 3 sounds
+- what's the difference between the 2 EQ'd sounds
+- answers for last section
 
 ### Reading Review
 - [[The Essential Guide to Game Audio#Intro]]
@@ -25,8 +31,10 @@ Game Audio Technology (sampling; MIDI; audio compression, middleware)
 	- Audition waveform view vs multitrack
 	- Concept of splicing tape
 	- Multiple lanes, mixing
-	- "printing" effects vs effects racks
-
+	- "printing" effects vs effects racks and channel flow
+		- "printing" effects
+		- signal flow
+		
 ### Hands on with destructive audio editing - Audition
 - Let's clean up this file [[luxury car commercial raw take.wav]]
 	- [ ] class: download file
@@ -141,7 +149,15 @@ Game Audio Technology (sampling; MIDI; audio compression, middleware)
 - [ ] Class: using high shelf, raise higher frequencies for more articulation
 - [ ] Class: using high pass, cut off all frequencies below performers range
 
+### Saving / Rendering
+- File types
+	- We'll be working with .wav (PCM)
+	- Be mindful of Frequency and Bitrate
+
 ### Intro assignment
+[Exercise 2 Repo](https://github.com/APUGames/Game-220-Exercise-2/tree/main)
+- will be given an asset list with sound names, descriptions and notes
+- you'll find sounds and clean them up to spec
 
 ### Where to source sounds
 #### Free
