@@ -10,6 +10,7 @@ Game Audio Technology (sampling; MIDI; audio compression, middleware)
 
 ### Week 1 Lecture Quick Review
 _5 minutes_
+
 - Quick [[Game 220 Week 1]] review
 	- what is sound?
 	- what is amplitude?
@@ -17,6 +18,7 @@ _5 minutes_
 	
 ### Exercise 1 Review
 _10 minutes_
+
 - how to describe first 3 sounds
 - what's the difference between the 2 EQ'd sounds
 - answers for last section
@@ -39,6 +41,7 @@ _10 minutes_
 
 ### Reading Review
 _15 minutes_
+
 - [[The Essential Guide to Game Audio#Intro]]
 - [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio]]
 - [[The Essential Guide to Game Audio#Level 2 - Brief History of Games]]
@@ -46,6 +49,7 @@ _15 minutes_
 
 ### Introduction to DAWs
 _7:40_
+
 - Digital Audio Workstation
 - Destructive editing vs non destructive
 	- Audition waveform view vs multitrack
@@ -178,6 +182,7 @@ _7:40_
 
 ### Intro assignment
 _8:40_
+
 [Exercise 2 Repo](https://github.com/APUGames/Game-220-Exercise-2/tree/main)
 - will be given an asset list with sound names, descriptions and notes
 - you'll find sounds and clean them up to spec
@@ -198,7 +203,7 @@ _8:40_
 
 ## Assignments
 ### Exercise 2: Stand Alone Game SFX
-[Exercise 2 Repo](https://github.com/APUGames/Game-220-Exercise-2/tree/main)
+- [Exercise 2 Repo](https://github.com/APUGames/Game-220-Exercise-2/tree/main)
 
 ### Reading
 - [[The Essential Guide to Game Audio#Level 5 - Sound Design in Games]]
