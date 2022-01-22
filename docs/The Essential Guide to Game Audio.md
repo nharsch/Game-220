@@ -15,9 +15,10 @@ aliases: Horowitz and Looney
 ## Level 3 - Audio for Interactive Evironments
 - Non linearity
 - Digital Sound Basics
-	- Bit Resolution
+	- Sample Rate
 	- Bit Depth
 - File Compression
+	- not to be confused with "Dynamic Compression", which deals with volume
 - MIDI
 - Synthesis
 	- analog synthesis
