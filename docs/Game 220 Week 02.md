@@ -2,12 +2,6 @@
 - [[Game 220 Week 01|Previous Week]]
 - [[Game 220 Week 04|Next Week]]
 
-# TODO
-- [ ] slack group with details
-	- cover chapters Intro, 1, 2, 3, 5 (not 4 yet)
-	- watch decibel video
-	- Exercise 2 still due
-
 # Week 2 - 1/21/22
 - Exercise 1 Due
 
@@ -210,6 +204,10 @@ _8:40_
 - [A Sound Effect](https://www.asoundeffect.com/)
 - [StoryBlocks](https://www.storyblocks.com/audio)
 - [Boom Library](https://www.boomlibrary.com/original-boom-library-sound-fx/)
+
+## Additional Resources
+- [What is a Decibel](https://www.youtube.com/watch?v=F4r3WI-JXlc)
+- [Video on Identifying EQ bands](https://www.youtube.com/watch?v=0Ls7ZGH1PAk&t=34s)
 
 ## Assignments
 ### Lecture Addendum Videos
