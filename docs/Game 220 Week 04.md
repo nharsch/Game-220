@@ -18,10 +18,6 @@ _25 minutes_
 - [[The Essential Guide to Game Audio Book Notes#Level 3 - Audio for Interactive Evironments]]
 - [[The Essential Guide to Game Audio Book Notes#Level 5 - Sound Design in Games]]
 
-### Help and Questions about Using Audition
-
-### Explain Assignment
-
 ### Cover Missed EQ section
 - [[Game 220 Week 02#EQ]]
 
@@ -83,6 +79,10 @@ EQ -- EQ'd signal --> Output(Output);
 - Ben Burt hitting high tension wire
 - marble drop iphone sound
 - ratched iphone sound
+
+### Help and Questions about Using Audition
+
+### Explain Assignment
 
 ## Assignments
 ### Exercise 3: UI Sound Library  - due week 5

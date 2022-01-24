@@ -13,6 +13,7 @@ Every Friday, 7:10pm - 9:10pm
 	- [[The Essential Guide to Game Audio Book Notes|Instructor Book Notes]]
 - [[#Assignments|Assignments]]
 - [Trello Board](https://trello.com/b/bg0gDxFM/game-220-20)
+- [[Git Resources]]
 - [Lecture Zoom Line](https://zoom.us/j/97631235561?pwd=YlBxaWdVNEN3Z25Mek8wZ3FUY2N3QT09)
 	- pass: game220
 
