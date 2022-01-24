@@ -2,7 +2,7 @@
 - [[Game 220 Week 08|Previous Week]]
 - [[Game 220 Week 11|Next Week]]
 
-# Week 8 - 3/18/22
+# Week 10 - 3/18/22
 
 ## Lecture Notes
 Audio Engineering (prepping audio, mixing, looping)

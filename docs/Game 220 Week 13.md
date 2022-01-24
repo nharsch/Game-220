@@ -2,8 +2,9 @@
 - [[Game 220 Week 12|Previous Week]]
 - [[Game 220 Week 15|Next Week]]
 
-# Week 11 - 4/8/22
+# Week 13 - 4/8/22
 - Exercise 4 Due
+- Easter Break Next Week
 
 ## Lecture Notes
 - [[The Essential Guide to Game Audio Book Notes#Level 7 - Voice Over]]

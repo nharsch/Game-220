@@ -2,7 +2,7 @@
 - [[Game 220 Week 07|Previous Week]]
 - [[Game 220 Week 10|Next Week]]
 
-# Week 7 - 3/4/22 
+# Week 8 - 3/4/22 
 - FOOTSTEP project due
 - Last week before spring break
 

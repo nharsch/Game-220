@@ -2,7 +2,7 @@
 - [[Game 220 Week 05|Previous Week]]
 - [[Game 220 Week 07|Next Week]]
 
-# Week 5 - 2/18/22
+# Week 6 - 2/18/22
 - Exercise 3 Due
 
 ## Lecture Notes

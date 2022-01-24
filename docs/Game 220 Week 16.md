@@ -2,7 +2,7 @@
 - [[Game 220 Week 15|Previous Week]]
 - [[Game 220 Week 17 - Finals|Next Week]]
 
-# Week 13 - 4/29/22
+# Week 16 - 4/29/22
 - Last week of class
 - Finals next week
 

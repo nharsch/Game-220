@@ -2,7 +2,7 @@
 - [[Game 220 Week 06|Previous Week]]
 - [[Game 220 Week 08|Next Week]]
 
-# Week 6 - 2/25/22
+# Week 7 - 2/25/22
 
 ## Lecture Notes
 Middleware (integrating FMOD with Unity)

@@ -2,7 +2,7 @@
 - [[Game 220 Week 02|Previous Week]]
 - [[Game 220 Week 05|Next Week]]
 
-# Week 3 - 2/4/22
+# Week 4 - 2/4/22
 - After week break for Game Jam
 - [Exercise 2](https://github.com/APUGames/Game-220-Exercise-2/tree/main) due
 

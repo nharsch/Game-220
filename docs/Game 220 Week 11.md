@@ -2,7 +2,7 @@
 - [[Game 220 Week 10|Previous Week]]
 - [[Game 220 Week 12|Next Week]]
 
-# Week 9 - 3/25/22
+# Week 11 - 3/25/22
 
 ## Lecture Notes
 ### Reading

@@ -2,7 +2,7 @@
 - [[Game 220 Week 04|Previous Week]]
 - [[Game 220 Week 06|Next Week]]
 
-# Week 4 - 2/11/22
+# Week 5 - 2/11/22
 
 ## Lecture Notes
 Sound Design Basics (terminology;)

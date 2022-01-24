@@ -1,6 +1,5 @@
 - [[GAME 220 Syllabus|Home]]
-- [[Game 220 Week 15|Previous Week]]
-- [[Game 220 Week 14|Next Week]]
+- [[Game 220 Week 16]]
 
-# Week 14 - 4/29/22
+# Week 17 - 4/29/22
 - Final Exams

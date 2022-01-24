@@ -2,7 +2,7 @@
 - [[Game 220 Week 13|Previous Week]]
 - [[Game 220 Week 16|Next Week]]
 
-# Week 12 - 4/22/22
+# Week 15 - 4/22/22
 
 ## Lecture Notes
 - [[The Essential Guide to Game Audio Book Notes#Level 14 - Jobs in Game Audio]]

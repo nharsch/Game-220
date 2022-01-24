@@ -2,7 +2,7 @@
 - [[Game 220 Week 11|Previous Week]]
 - [[Game 220 Week 13|Next Week]]
 
-# Week 10 - 4/1/22
+# Week 12 - 4/1/22
 - GAME SCENE project due
 
 ## Lecture Notes
