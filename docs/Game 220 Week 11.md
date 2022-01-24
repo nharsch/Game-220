@@ -6,11 +6,11 @@
 
 ## Lecture Notes
 ### Reading
-- [[The Essential Guide to Game Audio#Level 11 - Intro to Unity]]
-- [[The Essential Guide to Game Audio#Level 12 - Basic Audio in Unity 3D]]
+- [[The Essential Guide to Game Audio Book Notes#Level 11 - Intro to Unity]]
+- [[The Essential Guide to Game Audio Book Notes#Level 12 - Basic Audio in Unity 3D]]
 
 GAME SCENE project lab time
 
 ## Assignments
 ### Reading
-- [[The Essential Guide to Game Audio#Level 7 - Voice Over]]
+- [[The Essential Guide to Game Audio Book Notes#Level 7 - Voice Over]]

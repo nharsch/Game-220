@@ -1,5 +1,5 @@
 - [[GAME 220 Syllabus|Home]]
-- [[Game 220 Week 2|Next Week]]
+- [[Game 220 Week 02|Next Week]]
 
 # Week 1 - 1/14/22
 
@@ -229,7 +229,7 @@
 
 ### Additional Resources
 - [Video on Describing Audio Objectively](https://www.youtube.com/watch?v=wdkrqiqz5ek)
-- Science Experiment
+- Science Experiment on analog vs digital
 	- [Mics, Speakers, Electric Audio](https://youtu.be/_xHw-RRc-_U)
 - Git resources
 	- [Git Branching Video](https://www.youtube.com/watch?v=Ir1KfssniRI)
@@ -240,10 +240,7 @@
 - [Exercise 1 Repo](https://github.com/APUGames/Game-220-Exercise-1)
 
 ### Assigned Reading: 
-- [[The Essential Guide to Game Audio#Intro|Intro]]
-- [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio|Level 1]]
-- [[The Essential Guide to Game Audio#Level 2 - Brief History of Games|Level 2]]
-- [[The Essential Guide to Game Audio#Level 3 - Audio for Interactive Evironments|Level 3]]
-
-- [[GAME 220 Syllabus|Home]]
-- [[Game 220 Week 2|Next Week]]
+- [[The Essential Guide to Game Audio Book Notes#Intro|Intro]]
+- [[The Essential Guide to Game Audio Book Notes#Level 1 - Animation Art Audio|Level 1]]
+- [[The Essential Guide to Game Audio Book Notes#Level 2 - Brief History of Games|Level 2]]
+- [[The Essential Guide to Game Audio Book Notes#Level 3 - Audio for Interactive Evironments|Level 3]]

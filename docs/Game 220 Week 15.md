@@ -5,7 +5,7 @@
 # Week 12 - 4/22/22
 
 ## Lecture Notes
-- [[The Essential Guide to Game Audio#Level 14 - Jobs in Game Audio]]
+- [[The Essential Guide to Game Audio Book Notes#Level 14 - Jobs in Game Audio]]
 
 Game Developers vs. Composers and Sound Designers (contracts, royalties, fees, credits, time vs. money vs. quality)
 

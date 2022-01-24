@@ -1,20 +1,29 @@
 - [[GAME 220 Syllabus|Home]]
-- [[Game 220 Week 2|Previous Week]]
-- [[Game 220 Week 5|Next Week]]
+- [[Game 220 Week 02|Previous Week]]
+- [[Game 220 Week 05|Next Week]]
 
 # Week 3 - 2/4/22
 - After week break for Game Jam
-- Exercise 2 Due
+- [Exercise 2](https://github.com/APUGames/Game-220-Exercise-2/tree/main) due
 
 ## Lecture Notes
 Sound Design for User Interfaces (file formats; editing techniques; menu interface sound design; unified soundscapes; synthesized interface sounds) 
 
 ### Reading 
-- [[The Essential Guide to Game Audio#Level 5 - Sound Design in Games]]
+_25 minutes_
+
+- [[The Essential Guide to Game Audio Book Notes#Intro]]
+- [[The Essential Guide to Game Audio Book Notes#Level 1 - Animation Art Audio]]
+- [[The Essential Guide to Game Audio Book Notes#Level 2 - Brief History of Games]]
+- [[The Essential Guide to Game Audio Book Notes#Level 3 - Audio for Interactive Evironments]]
+- [[The Essential Guide to Game Audio Book Notes#Level 5 - Sound Design in Games]]
 
 ### Help and Questions about Using Audition
 
 ### Explain Assignment
+
+### Cover Missed EQ section
+- [[Game 220 Week 02#EQ]]
 
 ### Advanced Sound Editing Concepts
 #### Speed and Pitch
@@ -82,5 +91,6 @@ EQ -- EQ'd signal --> Output(Output);
   - "select"
   - "cancel"
   - "error"
+  
 ### Reading
-- [[The Essential Guide to Game Audio#Level 4 - Styles and Genres]]
+- [[The Essential Guide to Game Audio Book Notes#Level 4 - Styles and Genres]]

@@ -1,6 +1,12 @@
 - [[GAME 220 Syllabus|Home]]
-- [[Game 220 Week 1|Previous Week]]
-- [[Game 220 Week 4|Next Week]]
+- [[Game 220 Week 01|Previous Week]]
+- [[Game 220 Week 04|Next Week]]
+
+# TODO
+- [ ] slack group with details
+	- cover chapters Intro, 1, 2, 3, 5 (not 4 yet)
+	- watch decibel video
+	- Exercise 2 still due
 
 # Week 2 - 1/21/22
 - Exercise 1 Due
@@ -11,7 +17,7 @@ Game Audio Technology (sampling; MIDI; audio compression, middleware)
 ### Week 1 Lecture Quick Review
 _5 minutes_
 
-- Quick [[Game 220 Week 1]] review
+- Quick [[Game 220 Week 01]] review
 	- what is sound?
 	- what is amplitude?
 	- what is frequency?
@@ -42,10 +48,10 @@ _10 minutes_
 ### Reading Review
 _15 minutes_
 
-- [[The Essential Guide to Game Audio#Intro]]
-- [[The Essential Guide to Game Audio#Level 1 - Animation Art Audio]]
-- [[The Essential Guide to Game Audio#Level 2 - Brief History of Games]]
-- [[The Essential Guide to Game Audio#Level 3 - Audio for Interactive Evironments]]
+- [[The Essential Guide to Game Audio Book Notes#Intro]]
+- [[The Essential Guide to Game Audio Book Notes#Level 1 - Animation Art Audio]]
+- [[The Essential Guide to Game Audio Book Notes#Level 2 - Brief History of Games]]
+- [[The Essential Guide to Game Audio Book Notes#Level 3 - Audio for Interactive Evironments]]
 
 ### Introduction to DAWs
 _7:40_
@@ -120,6 +126,10 @@ _7:40_
 - Fades: changing volume over time
 	- good for avoiding zero crossing clicks when looping or cutting
 	- good for hiding edits
+	- Audition will insert fades automatically when cutting into sounds
+	- Two ways to create fades
+		- Using envelopes add beginning and end of file
+		- Effects -> Amplitude and Compression -> Fade Evelope
 - Pan : balance of volume between left and right
 - [ ] Class: peak normalize clip to -0.5 db
 
@@ -189,9 +199,9 @@ _8:40_
 
 ### Where to source sounds
 #### Free
-- [Free Sound Web](https://freesound.org/)
+- [FreeSound.org](https://freesound.org/)
 - [Open Game Art](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=13&sort_by=count&sort_order=DESC)
-- [Youtube to Wav](https://loader.to/en52/youtube-wav-converter.html)
+- [Loader.to](https://loader.to/en52/youtube-wav-converter.html)
 	- Use this responsibly!
 		- May be copywritten material
 		- These sites often have fake "download" buttons
@@ -202,8 +212,17 @@ _8:40_
 - [Boom Library](https://www.boomlibrary.com/original-boom-library-sound-fx/)
 
 ## Assignments
+### Lecture Addendum Videos
+- [Fades in Audition](https://youtu.be/o2sn0A5ooUo)
+- [Where to Source Sounds](https://www.youtube.com/watch?v=PTTc-c9SmiA)
+
 ### Exercise 2: Stand Alone Game SFX
 - [Exercise 2 Repo](https://github.com/APUGames/Game-220-Exercise-2/tree/main)
 
 ### Reading
-- [[The Essential Guide to Game Audio#Level 5 - Sound Design in Games]]
+- Reassigned from last week:
+	- [[The Essential Guide to Game Audio Book Notes#Intro|Intro]]
+	- [[The Essential Guide to Game Audio Book Notes#Level 1 - Animation Art Audio|Level 1]]
+	- [[The Essential Guide to Game Audio Book Notes#Level 2 - Brief History of Games|Level 2]]
+	- [[The Essential Guide to Game Audio Book Notes#Level 3 - Audio for Interactive Evironments|Level 3]]
+- [[The Essential Guide to Game Audio Book Notes#Level 5 - Sound Design in Games]]

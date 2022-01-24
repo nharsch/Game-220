@@ -6,11 +6,11 @@
 - Exercise 4 Due
 
 ## Lecture Notes
-- [[The Essential Guide to Game Audio#Level 7 - Voice Over]]
+- [[The Essential Guide to Game Audio Book Notes#Level 7 - Voice Over]]
 
 ### Final Project Assigned
 
 ## Assignment
 FINAL PROJECT
 ### Reading
-- [[The Essential Guide to Game Audio#Level 14 - Jobs in Game Audio]]
+- [[The Essential Guide to Game Audio Book Notes#Level 14 - Jobs in Game Audio]]

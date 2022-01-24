@@ -10,21 +10,21 @@ Every Friday, 7:10pm - 9:10pm
 - [syllabus pdf](https://drive.google.com/file/d/186sxK5CyzCnww-TBSRLQmuPVBCH8z6cg/view?usp=sharing)
 - Book - The Essential Guide to Game Audio
 	- [Order Book on Amazon](https://www.amazon.com/Essential-Guide-Game-Audio-Practice/dp/041570670X/ref=sr_1_1?crid=3IGE5UH8X6O3G&keywords=the+essential+guide+to+game+audio&qid=1642484714&sprefix=the+essential+guide+to+game+aud%2Caps%2C199&sr=8-1)
-	- [[The Essential Guide to Game Audio|Instructor Book Notes]]
+	- [[The Essential Guide to Game Audio Book Notes|Instructor Book Notes]]
 - [[#Assignments|Assignments]]
 - [Trello Board](https://trello.com/b/bg0gDxFM/game-220-20)
 - [Lecture Zoom Line](https://zoom.us/j/97631235561?pwd=YlBxaWdVNEN3Z25Mek8wZ3FUY2N3QT09)
 	- pass: game220
 
 ## Weeks
-- 1/15 [[Game 220 Week 1]]
-- 1/21 [[Game 220 Week 2]]
+- 1/15 [[Game 220 Week 01]]
+- 1/21 [[Game 220 Week 02]]
 - 1/28 Week 3 - Game Jam, no class
-- 2/4 [[Game 220 Week 4]]
-- 2/11 [[Game 220 Week 5]]
-- 2/18 [[Game 220 Week 6]]
-- 2/25 [[Game 220 Week 7]]
-- 3/4 [[Game 220 Week 8]]
+- 2/4 [[Game 220 Week 04]]
+- 2/11 [[Game 220 Week 05]]
+- 2/18 [[Game 220 Week 06]]
+- 2/25 [[Game 220 Week 07]]
+- 3/4 [[Game 220 Week 08]]
 - 3/11 Week 9 - Spring Break, no class
 - 3/18 [[Game 220 Week 10]]
 - 3/25 [[Game 220 Week 11]]

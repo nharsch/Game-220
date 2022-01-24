@@ -11,7 +11,7 @@ and casting; recording preparation; recording setup; recording and processing;
 editing dialog; file management and delivery)
 
 ### Reading
-- [[The Essential Guide to Game Audio#Level 7 - Voice Over]]
+- [[The Essential Guide to Game Audio Book Notes#Level 7 - Voice Over]]
 
 - Room problems
 	- https://www.youtube.com/watch?v=JPYt10zrclQ

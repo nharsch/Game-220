@@ -1,6 +1,6 @@
 - [[GAME 220 Syllabus|Home]]
-- [[Game 220 Week 5|Previous Week]]
-- [[Game 220 Week 7|Next Week]]
+- [[Game 220 Week 05|Previous Week]]
+- [[Game 220 Week 07|Next Week]]
 
 # Week 5 - 2/18/22
 - Exercise 3 Due
@@ -22,4 +22,4 @@ FOOTSTEP project lab time
 ### Footsteps Project
 - Due Week 7
 ### Reading
-- [[The Essential Guide to Game Audio#Level 8 - Middleware]]
+- [[The Essential Guide to Game Audio Book Notes#Level 8 - Middleware]]
