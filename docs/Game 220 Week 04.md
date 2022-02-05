@@ -6,6 +6,19 @@
 - After week break for Game Jam
 - [Exercise 2](https://github.com/APUGames/Game-220-Exercise-2/tree/main) due
 
+## Catch up
+- Canvas: set up, nothing new on it, don't use it, use these
+	- check slack
+	- check online course notes
+	- check email
+	- check trello
+		- is this helpful?
+- Eric: not enrolled?
+- Books?
+- Reading?
+- Headphones?
+- Assignment 2?
+
 ## Lecture Notes
 Sound Design for User Interfaces (file formats; editing techniques; menu interface sound design; unified soundscapes; synthesized interface sounds) 
 
@@ -22,12 +35,16 @@ _25 minutes_
 - [[Game 220 Week 02#EQ]]
 
 ### Advanced Sound Editing Concepts
+8:00
 #### Speed and Pitch
 - related by default
 	- dropping both results in lower EQ range
 - can be separated with digital algorithms
 	- time stretch: slowed without changing pitch
 	- pitch effect: raise pitch without speed
+	
+#### Reverse
+- reverses
 
 #### Reverb / Delay aka "time based"
 - delay is repition of sound
@@ -76,9 +93,10 @@ EQ -- EQ'd signal --> Output(Output);
 - distort it
 
 ### Sound Design Inspirations
-- Ben Burt hitting high tension wire
-- marble drop iphone sound
-- ratched iphone sound
+[Article on Ben Burtt](https://www.popularmechanics.com/culture/movies/news/g2486/how-6-of-star-wars-iconic-sounds-were-conceived/)
+- Ben Burtt hitting high tension wire
+[99% Invisible Episode on UI Sounds](https://99percentinvisible.org/episode/episode-15-the-sound-of-the-artificial-world/)
+
 
 ### Help and Questions about Using Audition
 
@@ -86,11 +104,12 @@ EQ -- EQ'd signal --> Output(Output);
 
 ## Assignments
 ### Exercise 3: UI Sound Library  - due week 5
-- create sounds for a menu UI
-  - "open" section
-  - "select"
-  - "cancel"
-  - "error"
-  
+[Exercise 3 Repo](https://github.com/APUGames/Game-220-Exercise-3)
+> You are tasked with creating User Interface sounds for the menu page and inventory screen of an adventure/survival game. These sounds are _non diagetic_, but they should fit the overall theme of the game, which is "outdoor survival". The client requested that the sounds "sound organic" and "not electronic".
+
 ### Reading
 - [[The Essential Guide to Game Audio Book Notes#Level 4 - Styles and Genres]]
+
+## Optional Additional Reading
+[99% Invisible Episode on UI Sounds](https://99percentinvisible.org/episode/episode-15-the-sound-of-the-artificial-world/)
+[Article on Ben Burtt](https://www.popularmechanics.com/culture/movies/news/g2486/how-6-of-star-wars-iconic-sounds-were-conceived/)

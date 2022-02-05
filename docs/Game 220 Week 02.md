@@ -174,6 +174,14 @@ _7:40_
 		- amplify or attenuate all frequencies above a freq
 	- low shelf
 		- amplify or attenuate all frequencies below a freq
+- Let's clean up this file [[luxury car commercial raw take.wav]]
+	- [X] class: download file
+	- [X] trim silences
+	- [X] normalize
+	- EQ
+		- sounds like there's room resonance
+		- something sounds "nasally"
+- [ ] class: open file in audition
 - [ ] Class: using Parametric EQ, find low frequency room resonance and attenuate
 - [ ] Class: using Parametric EQ, find "nasally" midrage frequency and attenuate
 - [ ] Class: using high shelf, raise higher frequencies for more articulation
