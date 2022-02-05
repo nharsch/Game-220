@@ -13,7 +13,6 @@
 	- check email
 	- check trello
 		- is this helpful?
-- Eric: not enrolled?
 - Books?
 - Reading?
 - Headphones?
