@@ -3,11 +3,10 @@
 - [[Game 220 Week 15|Next Week]]
 
 # Week 13 - 4/8/22
-- Exercise 4 Due
 - Easter Break Next Week
 
 ## Lecture Notes
-- [[The Essential Guide to Game Audio Book Notes#Level 7 - Voice Over]]
+Lab time to work with FMOD and Unity
 
 ### Final Project Assigned
 

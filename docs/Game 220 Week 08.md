@@ -3,17 +3,21 @@
 - [[Game 220 Week 10|Next Week]]
 
 # Week 8 - 3/4/22 
-- FOOTSTEP project due
 - Last week before spring break
 
 ## Lecture Notes
-Game Music (game music form and structure; elements of game music)
+Prepping Audio
+Game Music
+Pro Tools Mixing work
 
 ### Reading
 - [[The Essential Guide to Game Audio Book Notes#Level 6 - Composing]]
+- [[The Essential Guide to Game Audio Book Notes#Level 9 - Preparing Audio|Level 9]]
+
+### Looping
+- making loops in pro tools
 
 ## Assignments
-### GAME SCENE project assigned (due Week 10)
 ### Reading
-- [[The Essential Guide to Game Audio Book Notes#Level 9 - Preparing Audio]]
 - [[The Essential Guide to Game Audio Book Notes#Level 10 - Game Engines]]
+- [[The Essential Guide to Game Audio Book Notes#Level 11 - Intro to Unity]]

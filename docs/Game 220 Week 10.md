@@ -3,17 +3,18 @@
 - [[Game 220 Week 11|Next Week]]
 
 # Week 10 - 3/18/22
+GAME SCENE project due
 
 ## Lecture Notes
-Audio Engineering (prepping audio, mixing, looping)
+Game Engines
 
 ### Reading
-- [[The Essential Guide to Game Audio Book Notes#Level 9 - Preparing Audio]]
 - [[The Essential Guide to Game Audio Book Notes#Level 10 - Game Engines]]
-
-GAME SCENE project lab time
+- [[The Essential Guide to Game Audio Book Notes#Level 11 - Intro to Unity]]
 
 ## Assignment
+### FOOTSTEPS project assigned
+- due week 12
+
 ### Reading
-- [[The Essential Guide to Game Audio Book Notes#Level 11 - Intro to Unity]]
 - [[The Essential Guide to Game Audio Book Notes#Level 12 - Basic Audio in Unity 3D]]
