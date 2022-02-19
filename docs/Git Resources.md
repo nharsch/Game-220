@@ -1,4 +1,4 @@
-- [[GAME 220 Sound Design for Games|Home]]
+- [[GAME 220 Sound Design for Games - MOC|Home]]
 
 ## How to Submit Pull Requests
 - [ ] Fork the target repo

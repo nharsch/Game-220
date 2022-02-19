@@ -16,6 +16,7 @@ Every Friday, 7:10pm - 9:10pm
 - [Lecture Zoom Line](https://zoom.us/j/97631235561?pwd=YlBxaWdVNEN3Z25Mek8wZ3FUY2N3QT09)
 	- pass: game220
 - [headphone recommendation](https://www.amazon.com/Audio-Technica-ATH-M20x-Professional-Monitor-Headphones/dp/B00HVLUR18/ref=sr_1_4?crid=2C2M7AJUMIX7&keywords=audio+technica&qid=1642132525&sprefix=audio+technica%2Caps%2C312&sr=8-4)
+- [APU Equipment Rental Site](https://www.apu.edu/vpa/cinematicarts/equipmentfacilities)
 
 ## Weeks
 - 1/15 [[Game 220 Week 01]] - Sound Basics
@@ -54,6 +55,7 @@ Every Friday, 7:10pm - 9:10pm
 [Exercise 3 Repo](https://github.com/APUGames/Game-220-Exercise-3)
  
 ### Exercise 4: Game Intro Voice Over - Due week 7
+[Exercise 4 Repo](https://github.com/APUGames/Game-220-Exercise-4)
 
 ### Project 1: Game Animatic/Scene - Due week 10 
 

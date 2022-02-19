@@ -8,8 +8,33 @@
 ## Lecture Notes
 Foley and recording on location (recording equipment; signal flow; microphone techniques; recording on location)
 
+### Announcements
+- I retooled the syllabus
+	- cointinuing audio work
+	- will get to Unity integration post spring break
+- Does anyone care about the Trello board?
+	- I might delete it
+- Everyone should get their assignments submitted
+	- I need to start submitting grades
+
+### Some more useful Sound Effects
+- Example audio file: [[noisy_VO.wav]]
+
+#### Compression
+- reduces volume over a certain point
+
+#### Noise Gate
+- reduces volume under a certain point
+
+#### Noise Reduction
+- complex algorithm
+- DeNoiser is the most user friendly
+
+#### Distortion
+- complex harmonic interaction
+
 ### Recording Audio
-Introcution to Signal Path
+Introduction to Signal Path
 - What a microphone is
 - Signal Flow
 - Mic techniques
@@ -32,10 +57,13 @@ Introcution to Signal Path
 		- compression and limiting
 
 ### Voice Over Assignment
+- follow instructions, update tsv file
+- are you familar with renting equipment?
 
 ## Assignment
 ### Voice Over
+https://github.com/APUGames/Game-220-Exercise-4
 - Due Week 7
 
 ### Reading
-- [[The Essential Guide to Game Audio Book Notes#Level 7 - Voice Over|Level 7]]
+- [[The Essential Guide to Game Audio Book Notes#Level 7 - Voice Over|Level 7 - Voice Over]]
