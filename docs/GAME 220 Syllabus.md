@@ -1,22 +1,28 @@
 ---
 aliases: Game 220 Class Notes
 ---
+[Source](https://github.com/nharsch/Game-220)
 
 # Game 220 Class Notes
 Every Friday, 7:10pm - 9:10pm
 
 ## Resources
-- [syllabus pdf](https://drive.google.com/file/d/186sxK5CyzCnww-TBSRLQmuPVBCH8z6cg/view?usp=sharing)
 - Book - The Essential Guide to Game Audio
 	- [Order Book on Amazon](https://www.amazon.com/Essential-Guide-Game-Audio-Practice/dp/041570670X/ref=sr_1_1?crid=3IGE5UH8X6O3G&keywords=the+essential+guide+to+game+audio&qid=1642484714&sprefix=the+essential+guide+to+game+aud%2Caps%2C199&sr=8-1)
 	- [[The Essential Guide to Game Audio Book Notes|Instructor Book Notes]]
 - [[#Assignments|Assignments]]
-- [Trello Board](https://trello.com/b/bg0gDxFM/game-220-20)
 - [[Git Resources]]
 - [Lecture Zoom Line](https://zoom.us/j/97631235561?pwd=YlBxaWdVNEN3Z25Mek8wZ3FUY2N3QT09)
 	- pass: game220
+	- **Only for sick / quarantined students**
 - [headphone recommendation](https://www.amazon.com/Audio-Technica-ATH-M20x-Professional-Monitor-Headphones/dp/B00HVLUR18/ref=sr_1_4?crid=2C2M7AJUMIX7&keywords=audio+technica&qid=1642132525&sprefix=audio+technica%2Caps%2C312&sr=8-4)
+- [[Audition Resources]]
 - [APU Equipment Rental Site](https://www.apu.edu/vpa/cinematicarts/equipmentfacilities)
+- [Class Notes Source Repo](https://github.com/nharsch/Game-220)
+- [syllabus pdf](https://drive.google.com/file/d/186sxK5CyzCnww-TBSRLQmuPVBCH8z6cg/view?usp=sharing)
+	- now out of date
+- ~~[Trello Board](https://trello.com/b/bg0gDxFM/game-220-20)~~
+	- deprecated
 
 ## Weeks
 - 1/15 [[Game 220 Week 01]] - Sound Basics
