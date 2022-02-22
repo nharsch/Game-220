@@ -16,7 +16,7 @@ Intro to Pro Tools and Non Destructive Editing
 
 ### Intro to Pro Tools and Non Destructive Editing
 - concept of signal flow
-	- ![[Pasted image 20220221214520.png]]
+	- ![[Signal Flow.png]]
 - concept of mixing
 	- Streams of audio combined
 		- like what our ear does
@@ -41,7 +41,7 @@ Intro to Pro Tools and Non Destructive Editing
 		- routes signal somewhere else
 			- like one reverb
 	- inserts vs fades
-		- ![[Pasted image 20220221215933.png]]
+		- ![[Insert vs Send.png]]
 		
 ### Other major DAWs
 - Reaper 
