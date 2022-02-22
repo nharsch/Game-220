@@ -1,6 +1,7 @@
 ## EQ
 
 ## Compression
+![[Compression Graph.png]]
 
 ### Threshold
 The db level at which the volume reduction will kick in. 
