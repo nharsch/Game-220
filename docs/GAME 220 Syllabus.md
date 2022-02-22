@@ -17,6 +17,7 @@ Every Friday, 7:10pm - 9:10pm
 	- **Only for sick / quarantined students**
 - [headphone recommendation](https://www.amazon.com/Audio-Technica-ATH-M20x-Professional-Monitor-Headphones/dp/B00HVLUR18/ref=sr_1_4?crid=2C2M7AJUMIX7&keywords=audio+technica&qid=1642132525&sprefix=audio+technica%2Caps%2C312&sr=8-4)
 - [[Audition Resources]]
+- [[Audio Effects Guide]]
 - [APU Equipment Rental Site](https://www.apu.edu/vpa/cinematicarts/equipmentfacilities)
 - [Class Notes Source Repo](https://github.com/nharsch/Game-220)
 - [syllabus pdf](https://drive.google.com/file/d/186sxK5CyzCnww-TBSRLQmuPVBCH8z6cg/view?usp=sharing)
