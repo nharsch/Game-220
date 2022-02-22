@@ -11,10 +11,53 @@ Intro to Pro Tools and Non Destructive Editing
 ### Reading 
 - [[The Essential Guide to Game Audio Book Notes#Level 7 - Voice Over|Level 7]]
 
+### Prep
+- Can you open Pro Tools on Lab machines?
+
 ### Intro to Pro Tools and Non Destructive Editing
 - concept of signal flow
+	- ![[Pasted image 20220221214520.png]]
 - concept of mixing
-- concept of effects chains
+	- Streams of audio combined
+		- like what our ear does
+
+### Pro Tools
+- Creating a master track
+	- Other DAWs don't require this
+- inserting a track
+	- new track
+	- or drag and drop file
+- concept of "clips"
+	- clip level adjustments with Audio Suite
+	- similar to what we're used to with Audition
+- inserting fades
+- clip levels
+- mixer window
+	- volume (aka fader)
+	- pan
+	- effects inserts
+		- go to effect, come back directly
+	- sends
+		- routes signal somewhere else
+			- like one reverb
+	- inserts vs fades
+		- ![[Pasted image 20220221215933.png]]
+		
+### Other major DAWs
+- Reaper 
+	- Cheaper than Pro Tools, easier to use (IMHO)
+- Ableton
+	- Focuses on Music Production
+	- Purpose built for live performance
+	- Simpler than Pro Tools, more consistent design
+	- Not purpose built for Pro Audio
+- Logic
+	- Apple only
+	- Very similar to Pro Tools, not as deep
+	- Popular with composers
+- Steinberg Cubase
+	- Cutting edge features
+	- As deep as Pro Tools
 
 ## Assignments
 ### GAME SCENE project assigned (due Week 10)

@@ -59,6 +59,8 @@ Introduction to Signal Path
 ### Voice Over Assignment
 - follow instructions, update tsv file
 - are you familar with renting equipment?
+  - [Equipment Rental Site](https://www.apu.edu/vpa/cinematicarts/equipmentfacilities/)
+
 
 ## Assignment
 ### Voice Over
