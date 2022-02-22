@@ -62,5 +62,5 @@ Intro to Pro Tools and Non Destructive Editing
 ## Assignments
 ### GAME SCENE project assigned (due Week 10)
 ### Reading
-- [[The Essential Guide to Game Audio Book Notes#Level 9 - Preparing Audio|Level 9]]
-- [[The Essential Guide to Game Audio Book Notes#Level 6 - Composing]]
+- [[The Essential Guide to Game Audio Book Notes#Level 9 - Preparing Audio|Level 9- Prepping Audio]]
+- [[The Essential Guide to Game Audio Book Notes#Level 6 - Composing| Level 6 - Composing]]
