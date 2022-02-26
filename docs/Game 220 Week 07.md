@@ -5,8 +5,13 @@
 # Week 7 - 2/25/22
 Voice Over Project Due
 
+## Catch up
+- problems with assignment?
+	- please reach out
+
 ## Lecture Notes
 Intro to Pro Tools and Non Destructive Editing
+
  ### Reading 
 - [[The Essential Guide to Game Audio Book Notes#Level 7 - Voice Over|Level 7]]
 
