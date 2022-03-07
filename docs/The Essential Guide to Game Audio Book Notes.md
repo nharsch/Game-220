@@ -220,7 +220,7 @@ aliases: Horowitz and Looney
 		
 ## Level 9 - Preparing Audio
 - Mixing for Games
-	- Bound sounds out of DAW
+	- Bounce sounds out of DAW
 	- Trim sounds
 	- Balance all sounds
 	- create seamless loops

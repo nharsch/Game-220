@@ -18,7 +18,7 @@ Pro Tools Mixing work
 
 ### Looping
 - making loops in pro tools
-	- righ click clip, select loop
+	- right click clip, select loop
 
 ## Assignments
 ### Reading
