@@ -61,10 +61,10 @@ Every Friday, 7:10pm - 9:10pm
 ### Exercise 3: UI Sound Library  - Due week 5
 [Exercise 3 Repo](https://github.com/APUGames/Game-220-Exercise-3)
  
-### Exercise 4: Game Intro Voice Over - Due week 7
+### Exercise 4: Game Intro Voice Over - ~Due week 7~ Due week 10
 [Exercise 4 Repo](https://github.com/APUGames/Game-220-Exercise-4)
 
-### Project 1: Game Animatic/Scene - Due week 10 
+### Project 1: Game Animatic/Scene - ~Due week 10~ Due Week 11
 [Project 1 Repo](https://github.com/APUGames/Game-220-Project-1)
 
 ### Project 2: Footsteps Project - Due week 12
