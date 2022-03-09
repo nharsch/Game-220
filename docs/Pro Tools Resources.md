@@ -12,4 +12,4 @@
     -   Select video clip in pro tools track lane view
     -   Select "File" --> "Bounce to"
     -   This will render a new version of the video with your new audio
-- Tutorial video on syncing sound with video: ![https://nigelharsch.com/Game-220/Pro%20Tools%20Resources/](https://www.youtube.com/watch?v=IAaqSd7Twgo)
+- [Tutorial video on syncing sound with video](https://www.youtube.com/watch?v=IAaqSd7Twgo)
