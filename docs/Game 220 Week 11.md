@@ -11,8 +11,11 @@ Introduction to Unity and Audio for Unity
 - [[The Essential Guide to Game Audio Book Notes#Level 11 - Intro to Unity]]
 - [[The Essential Guide to Game Audio Book Notes#Level 12 - Basic Audio in Unity 3D]]
 
-Unity Audio Lab Time
+### Unity
+
+Audio Listeners
 
 ## Assignments
+
 ### Reading
 - [[The Essential Guide to Game Audio Book Notes#Level 8 - Middleware]]

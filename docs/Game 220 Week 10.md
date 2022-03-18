@@ -8,13 +8,22 @@ GAME SCENE project due
 ## Lecture Notes
 Game Engines
 
+### Housekeeping
+- [ ] complete your assigments
+- [ ] [GAME SCENE](https://learn.unity.com/tutorial/audio-setup) project due
+
 ### Reading
 - [[The Essential Guide to Game Audio Book Notes#Level 10 - Game Engines]]
 - [[The Essential Guide to Game Audio Book Notes#Level 11 - Intro to Unity]]
 
-## Assignment
-### FOOTSTEPS project assigned
-- due week 12
+## Unity Audio
+[Demo Project Repo](https://github.com/APUGames/game-220-unity-audio-intro)
+- Audio Sources
+- Audio Listeners
+
+## Assignments
+#### Unity Beginning Audio in Unity
+- https://learn.unity.com/project/beginning-audio-in-unity
 
 ### Reading
 - [[The Essential Guide to Game Audio Book Notes#Level 12 - Basic Audio in Unity 3D]]
