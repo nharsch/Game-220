@@ -21,6 +21,7 @@ Every Friday, 7:10pm - 9:10pm
 - [[Pro Tools Resources]]
 - [APU Equipment Rental Site](https://www.apu.edu/vpa/cinematicarts/equipmentfacilities)
 - [Class Notes Source Repo](https://github.com/nharsch/Game-220)
+- [Demo Unity Audio Project Repo](https://github.com/APUGames/game-220-unity-audio-intro)
 - [syllabus pdf](https://drive.google.com/file/d/186sxK5CyzCnww-TBSRLQmuPVBCH8z6cg/view?usp=sharing)
 	- now out of date
 - ~~[Trello Board](https://trello.com/b/bg0gDxFM/game-220-20)~~

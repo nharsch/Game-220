@@ -11,6 +11,11 @@ Game Engines
 ### Housekeeping
 - [ ] complete your assigments
 - [ ] [GAME SCENE](https://learn.unity.com/tutorial/audio-setup) project due
+- Attendance
+	- [x] Eric
+	- [ ] Zach
+	- [ ] Chiara
+	- [ ] Rebecca
 
 ### Reading
 - [[The Essential Guide to Game Audio Book Notes#Level 10 - Game Engines]]
@@ -20,6 +25,10 @@ Game Engines
 [Demo Project Repo](https://github.com/APUGames/game-220-unity-audio-intro)
 - Audio Sources
 - Audio Listeners
+- Adding Effects to Sources
+- Mixers
+	- effects
+- Reverb Zones
 
 ## Assignments
 #### Unity Beginning Audio in Unity
