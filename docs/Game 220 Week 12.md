@@ -9,7 +9,7 @@ FOOTSTEPS project due
 FMOD
 
 ### Reading
-- [[The Essential Guide to Game Audio Book Notes#Level 7 - Voice Over]]
+- [[The Essential Guide to Game Audio Book Notes#Level 8 - Middleware]]
 
 ### FMOD
 
@@ -17,4 +17,4 @@ FMOD
 An instanceable unit of sound content that can be triggered, controlled and stopped from game code. Everything that _produces_ a sound in a game should have a corresponding event
 
 ## Assignment
-### Final Project
+### Final Project - Footsteps

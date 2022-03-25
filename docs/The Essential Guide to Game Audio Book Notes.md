@@ -280,12 +280,13 @@ aliases: Horowitz and Looney
 
 ## Level 12 - Basic Audio in Unity 3D
 - Importing Sound
-- Native vs Compressed modes
-	- decompress on load
-	- compressed in memory
-	- stream from disc
-- 3D vs 2D
-- Convert to Mono
+- Import Settings
+	- Native vs Compressed modes
+		- decompress on load
+		- compressed in memory
+		- stream from disc
+	- 3D vs 2D
+	- Convert to Mono
 - Putting a Sound into Gamespace
 	- add AudioSource to objects
 - AudioSource component settings

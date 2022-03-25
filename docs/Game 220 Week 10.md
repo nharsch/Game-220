@@ -11,11 +11,6 @@ Game Engines
 ### Housekeeping
 - [ ] complete your assigments
 - [ ] [GAME SCENE](https://learn.unity.com/tutorial/audio-setup) project due
-- Attendance
-	- [x] Eric
-	- [ ] Zach
-	- [ ] Chiara
-	- [ ] Rebecca
 
 ### Reading
 - [[The Essential Guide to Game Audio Book Notes#Level 10 - Game Engines]]
