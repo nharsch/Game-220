@@ -8,7 +8,7 @@
 Introduction to Unity and Audio for Unity
 
 ### Housekeeping
-- [ ] complete your assigments
+- complete your assigments
 - [GAME SCENE](https://learn.unity.com/tutorial/audio-setup) project due
 	- how is this going?
 
@@ -18,6 +18,7 @@ Introduction to Unity and Audio for Unity
 
 ### Week 10 Review Basic Audio in Unity
 [Demo Project Repo](https://github.com/APUGames/game-220-unity-audio-intro)
+
 - Audio Sources
 - Audio Listeners
 - Adding Effects to Sources
@@ -31,3 +32,6 @@ Introduction to Unity and Audio for Unity
 
 ### Reading
 - [[The Essential Guide to Game Audio Book Notes#Level 8 - Middleware]]
+
+### Preview of FMOD
+- [FMOD Example Project](https://github.com/APUGames/FMODProject)
