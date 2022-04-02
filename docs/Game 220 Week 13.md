@@ -11,6 +11,6 @@ Lab time to work with FMOD and Unity
 ### Final Project Assigned
 
 ## Assignment
-FINAL PROJECT
 ### Reading
+- [FMOD Docs - Authoring Events](https://www.fmod.com/resources/documentation-studio?version=2.01&page=authoring-events.html) 
 - [[The Essential Guide to Game Audio Book Notes#Level 14 - Jobs in Game Audio]]

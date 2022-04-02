@@ -40,7 +40,7 @@ Collection of events. Events need to be assigned to at least one bank in order t
 Compiles your FMOD banks/events to usuable packages for Unity to use.
 
 #### Unity Integration
-- docs: https://www.fmod.com/resources/documentation-unity?version=2.02&page=welcome.html
+- [FMOD Unity Integration Docs Home](https://www.fmod.com/resources/documentation-unity?version=2.02&page=welcome.html)
 - [FMOD Studio Listener](https://www.fmod.com/resources/documentation-unity?version=2.02&page=game-components.html#studio-listener)
 	- Usually added to camera
 - [FMOD Studio Event Emitter](https://www.fmod.com/resources/documentation-unity?version=2.02&page=game-components.html#studio-event-emitter) 
