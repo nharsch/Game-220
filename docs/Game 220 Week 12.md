@@ -53,5 +53,7 @@ Compiles your FMOD banks/events to usuable packages for Unity to use.
 - [FMOD Studio Concepts](https://fmod.com/resources/documentation-studio?version=2.02&page=fmod-studio-concepts.html)
 - [FMOD Events](https://fmod.com/resources/documentation-studio?version=2.02&page=authoring-events.html)
 
-### Final Project - Footsteps
-- [ ] TODO
+### Project 2: Footsteps Project - ~Due week 12~ Due Week 15
+[Project 2 Repo](https://github.com/APUGames/Game-220-Project-2-Footsteps)
+  - record footsteps on multiple surfaces
+  - looping

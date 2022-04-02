@@ -69,7 +69,8 @@ Every Friday, 7:10pm - 9:10pm
 ### Project 1: Game Animatic/Scene - ~Due week 10~ Due Week 11
 [Project 1 Repo](https://github.com/APUGames/Game-220-Project-1)
 
-### Project 2: Footsteps Project - Due week 12
+### Project 2: Footsteps Project - ~Due week 12~ Due Week 15
+[Project 2 Repo](https://github.com/APUGames/Game-220-Project-2-Footsteps)
   - record footsteps on multiple surfaces
   - looping
   
