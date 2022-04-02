@@ -53,6 +53,12 @@ Compiles your FMOD banks/events to usuable packages for Unity to use.
 - [FMOD Studio Concepts](https://fmod.com/resources/documentation-studio?version=2.02&page=fmod-studio-concepts.html)
 - [FMOD Events](https://fmod.com/resources/documentation-studio?version=2.02&page=authoring-events.html)
 
+### FMOD Example Projects
+- In “FMOD Studio” open the “Examples” project 
+	- Try playing with “Vehicles -> Car Engine” example 
+	- Try playing with the “Character -> Player Footsteps” project. 
+- These are great intros to what FMOD will do with parameter values.
+
 ### Project 2: Footsteps Project - ~Due week 12~ Due Week 15
 [Project 2 Repo](https://github.com/APUGames/Game-220-Project-2-Footsteps)
   - record footsteps on multiple surfaces
