@@ -30,8 +30,12 @@ A snapshot is an instanceable unit of changes to the _project mix_ that can be [
 **Instruments**
 Instruments are tirggerable elements that route audio content into the tracks of an event. Can be tiggered by parameter sheets or action sheets
 
+- MultiInstruments
+
 **Parameters**
 Parameters can be changed with Unity game code. Parameter changes can tweak FMOD in several ways.
+
+- Parameter Sheets
 
 **Banks**
 Collection of events. Events need to be assigned to at least one bank in order to be used by Unity.
