@@ -7,9 +7,37 @@
 
 ## Lecture Notes
 Lab time to work with FMOD and Unity
+- Briefly cover [[Game 220 Week 12]] lecture notes
 
-### Final Project Assigned
+- Syncronous vs Async
+	- Synchronous always plays position of waveform on timeline
+		- only allowed on timeline sheets
+	- Async is more like a switch
+		- if playhead over, play
+		- default on parameter sheets
 
+- Automating Parameters
+	- Music/Level 02
+	- 
+
+- Get FMOD/Unity set up for working
+
+- Randomizing pitch in FMOD
+	- Add modulation to pitch
+	- Create dupes of sound, pitch each
+
+- AHDSR
+	- Changing the stopping/starting behavior of instruments
+	
+- [Logic Markers](https://www.fmod.com/resources/documentation-studio?version=2.01&page=authoring-events.html#timeline-logic)
+	- Looping
+	- Transitions
+	
+- [Scatterer Instruments](https://www.fmod.com/resources/documentation-studio?version=2.01&page=glossary.html#scatterer-instrument)
+	- Generate multiple instances of sounds, each with random space positioning, pitch, etc.
+	- Ambience/City example
+	
+	
 ## Assignment
 ### Reading
 - [FMOD Docs - Authoring Events](https://www.fmod.com/resources/documentation-studio?version=2.01&page=authoring-events.html) 
