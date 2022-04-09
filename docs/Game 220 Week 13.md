@@ -6,7 +6,6 @@
 - Easter Break Next Week
 
 ## Lecture Notes
-Lab time to work with FMOD and Unity
 - Briefly cover [[Game 220 Week 12]] lecture notes
 	- What the assignment is
 	- What FMOD is
@@ -40,7 +39,8 @@ Lab time to work with FMOD and Unity
 	- Generate multiple instances of sounds, each with random space positioning, pitch, etc.
 	- Ambience/City example
 	
-	
+- Lab time to work with FMOD and Unity
+
 ## Assignment
 ### Reading
 - [FMOD Docs - Authoring Events](https://www.fmod.com/resources/documentation-studio?version=2.01&page=authoring-events.html) 
