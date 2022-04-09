@@ -8,6 +8,10 @@
 ## Lecture Notes
 Lab time to work with FMOD and Unity
 - Briefly cover [[Game 220 Week 12]] lecture notes
+	- What the assignment is
+	- What FMOD is
+	- FMOD Parameters and Unity
+	- Timeline Sheet vs Parameter Sheet
 
 - Syncronous vs Async
 	- Synchronous always plays position of waveform on timeline
@@ -18,7 +22,6 @@ Lab time to work with FMOD and Unity
 
 - Automating Parameters
 	- Music/Level 02
-	- 
 
 - Get FMOD/Unity set up for working
 
@@ -42,3 +45,8 @@ Lab time to work with FMOD and Unity
 ### Reading
 - [FMOD Docs - Authoring Events](https://www.fmod.com/resources/documentation-studio?version=2.01&page=authoring-events.html) 
 - [[The Essential Guide to Game Audio Book Notes#Level 14 - Jobs in Game Audio]]
+
+### Project 2: Footsteps Project - ~Due week 12~ Due Week 15
+[Project 2 Repo](https://github.com/APUGames/Game-220-Project-2-Footsteps)
+  - record footsteps on multiple surfaces
+  - looping
