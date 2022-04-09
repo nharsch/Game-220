@@ -6,6 +6,8 @@
 - Easter Break Next Week
 
 ## Lecture Notes
+- Did anyone get FMOD/Unity set up for working
+
 - Briefly cover [[Game 220 Week 12]] lecture notes
 	- What the assignment is
 	- What FMOD is
@@ -21,8 +23,6 @@
 
 - Automating Parameters
 	- Music/Level 02
-
-- Get FMOD/Unity set up for working
 
 - Randomizing pitch in FMOD
 	- Add modulation to pitch
