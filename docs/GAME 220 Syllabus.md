@@ -76,3 +76,9 @@ Every Friday, 7:10pm - 9:10pm
   
 ### Final Project: Due end of semester
 - add full suite of character sound effects
+
+## Grading Rubric
+- Participation 20%
+- FMOD Footstep Project 20%
+- Game Scene Project 20%
+- Final Project 40%
