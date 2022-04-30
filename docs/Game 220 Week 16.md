@@ -7,8 +7,8 @@
 - Finals next week
 
 ## Lecture Notes
-
+- please take [class feedback survery](https://apu.campuslabs.com/eval-home/direct/9083353)
 - Final Project Lab time
  
 ## Assignments
- - None
+- Final Project: https://github.com/APUGames/Game-220-Final-Project

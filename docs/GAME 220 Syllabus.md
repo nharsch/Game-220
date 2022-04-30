@@ -75,7 +75,9 @@ Every Friday, 7:10pm - 9:10pm
   - looping
   
 ### Final Project: Due end of semester
-- add full suite of character sound effects
+[Final Project Repo](https://github.com/APUGames/Game-220-Final-Project)
+- implement sound in your own game
+- or add dynamic score to footsteps project
 
 ## Grading Rubric
 - Participation 20%
