@@ -11,4 +11,4 @@
 - Final Project Lab time
  
 ## Assignments
-- Final Project: https://github.com/APUGames/Game-220-Final-Project
+- [Final Project](https://github.com/APUGames/Game-220-Final-Project)
